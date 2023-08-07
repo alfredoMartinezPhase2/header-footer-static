@@ -1,0 +1,207 @@
+{
+  "acceptingNewPatients": true,
+  "address": {
+    "line1": "795 Middle Street",
+    "city": "Fall River",
+    "region": "MA",
+    "postalCode": "02721",
+    "countryCode": "US"
+  },
+  "admittingHospitals": ["Tufts Children's Hospital"],
+  "associations": ["Wellforce,Tufts Medical Center"],
+  "c_boardCertifiedSpecialties": ["Pediatric Cardiology"],
+  "c_datasources": ["tuftsmc", "lowell", "neqca", "sitecore"],
+  "c_education": [
+    "St. Petersburg State Medical University",
+    "St. Petersburg State Pediatric Medical Academy",
+    "Indiana University School of Medicine",
+    "Cincinnati Children's Hospital Medical Center",
+    "MD"
+  ],
+  "c_employer": "Pratt Pediatric Associates, Inc.",
+  "c_folder1": "Tufts Children's",
+  "c_folder2": "Endocrinology",
+  "c_hospitalAffiliations": [
+    "Tufts MC & Floating Tufts MC Primary Care Pediatrics",
+    "Tufts MC PO"
+  ],
+  "c_openScheduling": true,
+  "c_telehealthVisit": false,
+  "c_titles": [
+    "Director, Pediatric Echocardiology and Fetal Cardiology",
+    "Director, Adult Congenital Heart Disease Clinic",
+    "Pediatric Cardiologist",
+    "Associate Professor, Tufts University School of Medicine",
+    "MD"
+  ],
+  "c_trackingTag": "?utm_source=Yext&utm_medium=Listings%20Management",
+  "c_websiteNoTracking": "https://www.tuftschildrenshospital.org/PhysicianDirectory/Mark-Zilberman",
+  "categoryIds": ["1343540", "1135570", "1324880"],
+  "cityCoordinate": {
+    "latitude": 41.697408,
+    "longitude": -71.130925
+  },
+  "covid19InformationUrl": "https://www.tuftsmedicalcenter.org/covidtesting",
+  "degrees": ["MD"],
+  "description": "Tufts Children's Hospital is the full-service pediatric hospital of Tufts Medical Center, an internationally respected academic medical center. A major academic medical institution with innovative programs in clinical care, research, education and health care delivery, Tufts Children's offers a full range of inpatient and outpatient services in every area of pediatric specialization for infants through adolescence.",
+  "emails": ["MZilberman@tuftsmedicalcenter.org"],
+  "facebookPageUrl": "https://www.facebook.com/tuftschildrenshospital/",
+  "fax": "+16176362354",
+  "featuredMessage": {
+    "description": "Click or call to request an appointment",
+    "url": "https://www.tuftschildrenshospital.org/PhysicianDirectory/Mark-Zilberman"
+  },
+  "firstName": "Mark",
+  "gender": "MALE",
+  "geocodedCoordinate": {
+    "latitude": 41.69259,
+    "longitude": -71.16403
+  },
+  "googleAccountId": "104139635862137797817",
+  "googleAttributes": {
+    "has_wheelchair_accessible_entrance": ["true"],
+    "has_restroom": ["true"]
+  },
+  "googleCoverPhoto": {
+    "url": "https://a.mktgcdn.com/p/mdCr4Ygri-fjAr0_xBvmHf1Ss9FHg-V0xH2XcrxNiuA/1400x500.jpg",
+    "width": 1400,
+    "height": 500
+  },
+  "googlePlaceId": "ChIJpSJ3bsb45IkRoJjNdeiSNN4",
+  "googleProfilePhoto": {
+    "url": "https://a.mktgcdn.com/p/oE1ex4HMtCZUycgD-ZINN0avPU3EjEl8OKXy1zoc894/1.0000/420x420.jpg",
+    "width": 420,
+    "height": 420,
+    "sourceUrl": "http://a.mktgcdn.com/p/oE1ex4HMtCZUycgD-ZINN0avPU3EjEl8OKXy1zoc894/1.0000/420x420.jpg",
+    "thumbnails": [
+      {
+        "url": "https://a.mktgcdn.com/p/oE1ex4HMtCZUycgD-ZINN0avPU3EjEl8OKXy1zoc894/1.0000/196x196.jpg",
+        "width": 196,
+        "height": 196
+      }
+    ]
+  },
+  "headshot": {
+    "url": "https://a.mktgcdn.com/p/hUmPc_-zRpeVuSTO3cvL98RLFKLZsHA01DhSXbyecp4/300x420.jpg",
+    "width": 300,
+    "height": 420,
+    "sourceUrl": "https://www.tuftsmedicalcenter.org/-/media/Images/Physicians/zilberman_mark2018300x420.ashx",
+    "thumbnails": [
+      {
+        "url": "https://a.mktgcdn.com/p/hUmPc_-zRpeVuSTO3cvL98RLFKLZsHA01DhSXbyecp4/300x420.jpg",
+        "width": 300,
+        "height": 420
+      },
+      {
+        "url": "https://a.mktgcdn.com/p/hUmPc_-zRpeVuSTO3cvL98RLFKLZsHA01DhSXbyecp4/196x274.jpg",
+        "width": 196,
+        "height": 274
+      }
+    ]
+  },
+  "instagramHandle": "tuftsmedicalcenter",
+  "insuranceAccepted": [
+    "BCBS Med Adv",
+    "Blue Cross Blue Shield",
+    "Commonwealth Care Alliance",
+    "Harvard Pilgrim Health Care",
+    "LGPHO Circle Health Benefit Tier 2",
+    "Medicaid Wellforce Care Plan ACO (Fallon)",
+    "TMIN Aetna",
+    "TMIN AllaraCare",
+    "TMIN Cigna",
+    "TMIN Fallon Med Adv",
+    "TMIN Fallon Navicare SCO",
+    "TMIN Fallon",
+    "TMIN Mass General Brigham Health Plan",
+    "TMIN Tufts Medicare Preferred PPO",
+    "TMIN Unicare",
+    "TMIN United Healthcare Med Adv",
+    "TMIN United Healthcare OneCare",
+    "TMIN United Healthcare SCO",
+    "TMIN United Healthcare VACCN",
+    "TMIN United Healthcare",
+    "Tufts Health Plan",
+    "Tufts Health Public Plan",
+    "Tufts Medicare Preferred"
+  ],
+  "isoRegionCode": "MA",
+  "keywords": [
+    "boston childrens hospital",
+    "boston pediatric hospital",
+    "boston hospital",
+    "floating hospital",
+    "tufts floating",
+    "tufts childrens",
+    "child hospital"
+  ],
+  "languages": ["Russian"],
+  "lastName": "Zilberman",
+  "logo": {
+    "image": {
+      "url": "https://a.mktgcdn.com/p/mF1X8zAOLnIBp4dz7um-9RN7fZNDvvUWtshtP0jWncg/1333x1333.png",
+      "width": 1333,
+      "height": 1333,
+      "sourceUrl": "https://a.mktgcdn.com/p/mF1X8zAOLnIBp4dz7um-9RN7fZNDvvUWtshtP0jWncg/1333x1333.png",
+      "thumbnails": [
+        {
+          "url": "https://a.mktgcdn.com/p/mF1X8zAOLnIBp4dz7um-9RN7fZNDvvUWtshtP0jWncg/619x619.png",
+          "width": 619,
+          "height": 619
+        },
+        {
+          "url": "https://a.mktgcdn.com/p/mF1X8zAOLnIBp4dz7um-9RN7fZNDvvUWtshtP0jWncg/450x450.png",
+          "width": 450,
+          "height": 450
+        },
+        {
+          "url": "https://a.mktgcdn.com/p/mF1X8zAOLnIBp4dz7um-9RN7fZNDvvUWtshtP0jWncg/196x196.png",
+          "width": 196,
+          "height": 196
+        }
+      ]
+    },
+    "clickthroughUrl": "http://tuftschildrenshospital.org",
+    "description": "Floating Hospital for Children is now Tufts Children's Hospital"
+  },
+  "mainPhone": "+16176365067",
+  "meta": {
+    "accountId": "1268905395151558874",
+    "uid": "8771687",
+    "id": "DR-Zilberman1",
+    "timestamp": "2023-05-05T09:59:57",
+    "labels": ["55119", "33770", "41374", "62894", "131124"],
+    "folderId": "261375",
+    "schemaTypes": ["Pediatric", "Physician"],
+    "language": "en",
+    "countryCode": "US",
+    "entityType": "healthcareProfessional"
+  },
+  "middleName": "V",
+  "name": "Mark V Zilberman, MD",
+  "neighborhood": "Chinatown",
+  "npi": "1043257546",
+  "officeName": "Pediatric Endocrinology",
+  "reservationUrl": {
+    "url": "https://www.tuftschildrenshospital.org/PhysicianDirectory/Mark-Zilberman",
+    "displayUrl": "https://www.tuftschildrenshospital.org/PhysicianDirectory/Mark-Zilberman"
+  },
+  "services": ["health care, pediatric care"],
+  "telehealthUrl": "https://www.tuftschildrenshospital.org/Patient-Care-Services/Departments-and-Services/Telemedicine/Overview",
+  "timeZoneUtcOffset": "-04:00",
+  "timezone": "America/New_York",
+  "twitterHandle": "TuftsMedicalCtr",
+  "websiteUrl": {
+    "url": "https://www.tuftschildrenshospital.org/PhysicianDirectory/Mark-Zilberman?utm_source=Yext&utm_medium=Listings%20Management",
+    "displayUrl": "https://www.tuftschildrenshospital.org/PhysicianDirectory/Mark-Zilberman",
+    "preferDisplayUrl": false
+  },
+  "yextDisplayCoordinate": {
+    "latitude": 41.69258501886033,
+    "longitude": -71.16398602724075
+  },
+  "yextRoutableCoordinate": {
+    "latitude": 41.693338093783126,
+    "longitude": -71.16410940885544
+  }
+}

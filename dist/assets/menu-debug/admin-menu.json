@@ -1,0 +1,2493 @@
+{
+  "linkset": [
+    {
+      "anchor": "/system/menu/admin/linkset",
+      "item": [
+        {
+          "href": "/admin/structure/block/block-content/manage/50_50_promo_block",
+          "title": "50/50 Promo",
+          "hierarchy": ["0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/50_50_promo_block/fields",
+          "title": "Manage fields",
+          "hierarchy": ["0", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/50_50_promo_block/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["0", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/50_50_promo_block/display",
+          "title": "Manage display",
+          "hierarchy": ["0", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/50_50_promo_block/delete",
+          "title": "Delete",
+          "hierarchy": ["0", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/accordion_block",
+          "title": "Accordion block",
+          "hierarchy": ["1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/accordion_block/fields",
+          "title": "Manage fields",
+          "hierarchy": ["1", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/accordion_block/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["1", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/accordion_block/display",
+          "title": "Manage display",
+          "hierarchy": ["1", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/accordion_block/delete",
+          "title": "Delete",
+          "hierarchy": ["1", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/basic",
+          "title": "Basic block",
+          "hierarchy": ["2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/basic/fields",
+          "title": "Manage fields",
+          "hierarchy": ["2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/basic/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["2", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/basic/display",
+          "title": "Manage display",
+          "hierarchy": ["2", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/basic/delete",
+          "title": "Delete",
+          "hierarchy": ["2", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/card",
+          "title": "Card",
+          "hierarchy": ["3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/card/fields",
+          "title": "Manage fields",
+          "hierarchy": ["3", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/card/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["3", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/card/display",
+          "title": "Manage display",
+          "hierarchy": ["3", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/card/delete",
+          "title": "Delete",
+          "hierarchy": ["3", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/compact_promo",
+          "title": "Compact Promo",
+          "hierarchy": ["4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/compact_promo/fields",
+          "title": "Manage fields",
+          "hierarchy": ["4", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/compact_promo/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["4", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/compact_promo/display",
+          "title": "Manage display",
+          "hierarchy": ["4", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/compact_promo/delete",
+          "title": "Delete",
+          "hierarchy": ["4", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/full_promo",
+          "title": "Full promo",
+          "hierarchy": ["5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/full_promo/fields",
+          "title": "Manage fields",
+          "hierarchy": ["5", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/full_promo/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["5", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/full_promo/display",
+          "title": "Manage display",
+          "hierarchy": ["5", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/full_promo/delete",
+          "title": "Delete",
+          "hierarchy": ["5", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/hero_cta",
+          "title": "Hero - CTA",
+          "hierarchy": ["6"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/hero_cta/fields",
+          "title": "Manage fields",
+          "hierarchy": ["6", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/hero_cta/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["6", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/hero_cta/display",
+          "title": "Manage display",
+          "hierarchy": ["6", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/hero_cta/delete",
+          "title": "Delete",
+          "hierarchy": ["6", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/hero_icon_links",
+          "title": "Hero with Icon Links",
+          "hierarchy": ["7"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/hero_icon_links/fields",
+          "title": "Manage fields",
+          "hierarchy": ["7", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/hero_icon_links/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["7", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/hero_icon_links/display",
+          "title": "Manage display",
+          "hierarchy": ["7", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/hero_icon_links/delete",
+          "title": "Delete",
+          "hierarchy": ["7", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/icon_callout",
+          "title": "Icon Callout",
+          "hierarchy": ["8"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/icon_callout/fields",
+          "title": "Manage fields",
+          "hierarchy": ["8", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/icon_callout/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["8", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/icon_callout/display",
+          "title": "Manage display",
+          "hierarchy": ["8", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/icon_callout/delete",
+          "title": "Delete",
+          "hierarchy": ["8", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/teaser_card",
+          "title": "Media Card",
+          "hierarchy": ["9"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/teaser_card/fields",
+          "title": "Manage fields",
+          "hierarchy": ["9", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/teaser_card/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["9", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/teaser_card/display",
+          "title": "Manage display",
+          "hierarchy": ["9", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/teaser_card/delete",
+          "title": "Delete",
+          "hierarchy": ["9", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/promo",
+          "title": "Promo",
+          "hierarchy": ["10"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/promo/fields",
+          "title": "Manage fields",
+          "hierarchy": ["10", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/promo/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["10", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/promo/display",
+          "title": "Manage display",
+          "hierarchy": ["10", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/promo/delete",
+          "title": "Delete",
+          "hierarchy": ["10", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/quote_block",
+          "title": "Quote block",
+          "hierarchy": ["11"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/quote_block/fields",
+          "title": "Manage fields",
+          "hierarchy": ["11", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/quote_block/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["11", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/quote_block/display",
+          "title": "Manage display",
+          "hierarchy": ["11", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/quote_block/delete",
+          "title": "Delete",
+          "hierarchy": ["11", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/teaser_reference_card",
+          "title": "Reference Card",
+          "hierarchy": ["12"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/teaser_reference_card/fields",
+          "title": "Manage fields",
+          "hierarchy": ["12", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/teaser_reference_card/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["12", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/teaser_reference_card/display",
+          "title": "Manage display",
+          "hierarchy": ["12", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/teaser_reference_card/delete",
+          "title": "Delete",
+          "hierarchy": ["12", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/rich_text_block",
+          "title": "Rich text block",
+          "hierarchy": ["13"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/rich_text_block/fields",
+          "title": "Manage fields",
+          "hierarchy": ["13", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/rich_text_block/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["13", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/rich_text_block/display",
+          "title": "Manage display",
+          "hierarchy": ["13", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/rich_text_block/delete",
+          "title": "Delete",
+          "hierarchy": ["13", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/text_card_block",
+          "title": "Text Card block",
+          "hierarchy": ["14"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/text_card_block/fields",
+          "title": "Manage fields",
+          "hierarchy": ["14", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/text_card_block/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["14", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/text_card_block/display",
+          "title": "Manage display",
+          "hierarchy": ["14", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/text_card_block/delete",
+          "title": "Delete",
+          "hierarchy": ["14", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/video_block",
+          "title": "Video Block",
+          "hierarchy": ["15"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/video_block/fields",
+          "title": "Manage fields",
+          "hierarchy": ["15", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/video_block/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["15", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/video_block/display",
+          "title": "Manage display",
+          "hierarchy": ["15", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/manage/video_block/delete",
+          "title": "Delete",
+          "hierarchy": ["15", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin",
+          "title": "Administration",
+          "hierarchy": ["16"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/",
+          "title": "Tools",
+          "hierarchy": ["16", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/index",
+          "title": "Index",
+          "hierarchy": ["16", "0", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/flush?token=-vYUsTab-SGnsqTR353M8epHdMSic5GWMCO-DZHoFRI",
+          "title": "Flush all caches",
+          "hierarchy": ["16", "0", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/flush/cssjs?token=nPvdA_FFdCv-w3ZQqKl2tcvX2y1PgqDqKTydiKspxfU",
+          "title": "Flush CSS and JavaScript",
+          "hierarchy": ["16", "0", "1", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/flush/plugin?token=ZMUWTyhHrQqo8ank40GXMmvsa9hBdL595FoCuw1XItw",
+          "title": "Flush plugins cache",
+          "hierarchy": ["16", "0", "1", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/flush/rendercache?token=tBx0twEB7umsWF5UeV8f9SjrNSFM3B5pUQiDdJJWso0",
+          "title": "Flush render cache",
+          "hierarchy": ["16", "0", "1", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/flush/menu?token=XibUkmnp-KFjAi7YwGsceDaZ9p04P3_w2cW1Wl5lfLk",
+          "title": "Flush routing and links cache",
+          "hierarchy": ["16", "0", "1", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/flush/static-caches?token=Uf2GbVIgggA8Xcxz88OKHX9Wqs7Qz7C8sPUDUu5nPiE",
+          "title": "Flush static cache",
+          "hierarchy": ["16", "0", "1", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/flush/twig?token=IjtasaT-ywBYQcsryGU7KlgOuZDDjmc0_-kf6kzitNM",
+          "title": "Flush twig cache",
+          "hierarchy": ["16", "0", "1", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/flush/views?token=vR5SYQubui_OwuG_70LyvJm6NBBPW3lNnk8Piqx2_-Q",
+          "title": "Flush views cache",
+          "hierarchy": ["16", "0", "1", "6"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/flush/theme_rebuild?token=_eUcfb2XnYlV7mGHww0pIKZ2Ccvdkbcypig0oPmBphw",
+          "title": "Rebuild theme registry",
+          "hierarchy": ["16", "0", "1", "7"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/run-cron?token=QrX7FQVJWZ11dOHZOqSrfi4uD-AxXoUw52uRW1wVTV4",
+          "title": "Run cron",
+          "hierarchy": ["16", "0", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/update.php",
+          "title": "Run updates",
+          "hierarchy": ["16", "0", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/content",
+          "title": "Content",
+          "hierarchy": ["16", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/node/add",
+          "title": "Add content",
+          "hierarchy": ["16", "1", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/node/add/author",
+          "title": "Author",
+          "hierarchy": ["16", "1", "0", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/node/add/clinical_trial",
+          "title": "Clinical Trial",
+          "hierarchy": ["16", "1", "0", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/node/add/department",
+          "title": "Department",
+          "hierarchy": ["16", "1", "0", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/node/add/event",
+          "title": "Event",
+          "hierarchy": ["16", "1", "0", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/node/add/external_news",
+          "title": "External News",
+          "hierarchy": ["16", "1", "0", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/node/add/facility",
+          "title": "Facility",
+          "hierarchy": ["16", "1", "0", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/node/add/feature",
+          "title": "Feature",
+          "hierarchy": ["16", "1", "0", "6"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/node/add/provider",
+          "title": "Healthcare Provider",
+          "hierarchy": ["16", "1", "0", "7"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/node/add/article",
+          "title": "News Article",
+          "hierarchy": ["16", "1", "0", "8"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/node/add/page",
+          "title": "Page",
+          "hierarchy": ["16", "1", "0", "9"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/node/add/service_line",
+          "title": "Service Line",
+          "hierarchy": ["16", "1", "0", "10"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/node/add/story",
+          "title": "Story",
+          "hierarchy": ["16", "1", "0", "11"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/content/files",
+          "title": "Files",
+          "hierarchy": ["16", "1", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/content/media",
+          "title": "Media",
+          "hierarchy": ["16", "1", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/media/add",
+          "title": "Add media",
+          "hierarchy": ["16", "1", "2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/media/add/document",
+          "title": "Document",
+          "hierarchy": ["16", "1", "2", "0", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/media/add/image",
+          "title": "Image",
+          "hierarchy": ["16", "1", "2", "0", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/media/add/remote_video",
+          "title": "Remote video",
+          "hierarchy": ["16", "1", "2", "0", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/media/add/video",
+          "title": "Video",
+          "hierarchy": ["16", "1", "2", "0", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/content/media-grid",
+          "title": "Media library",
+          "hierarchy": ["16", "1", "2", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure",
+          "title": "Structure",
+          "hierarchy": ["16", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block",
+          "title": "Block layout",
+          "hierarchy": ["16", "2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/block/add",
+          "title": "Add custom block",
+          "hierarchy": ["16", "2", "0", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content/types",
+          "title": "Block types",
+          "hierarchy": ["16", "2", "0", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/block/block-content",
+          "title": "Custom block library",
+          "hierarchy": ["16", "2", "0", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types",
+          "title": "Content types",
+          "hierarchy": ["16", "2", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/add",
+          "title": "Add content type",
+          "hierarchy": ["16", "2", "1", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/author",
+          "title": "Author",
+          "hierarchy": ["16", "2", "1", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/author/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "1", "1", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/author/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "1", "1", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/author/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "1", "1", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/author/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "1", "1", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/clinical_trial",
+          "title": "Clinical Trial",
+          "hierarchy": ["16", "2", "1", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/clinical_trial/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "1", "2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/clinical_trial/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "1", "2", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/clinical_trial/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "1", "2", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/clinical_trial/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "1", "2", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/department",
+          "title": "Department",
+          "hierarchy": ["16", "2", "1", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/department/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "1", "3", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/department/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "1", "3", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/department/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "1", "3", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/department/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "1", "3", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/event",
+          "title": "Event",
+          "hierarchy": ["16", "2", "1", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/event/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "1", "4", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/event/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "1", "4", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/event/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "1", "4", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/event/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "1", "4", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/external_news",
+          "title": "External News",
+          "hierarchy": ["16", "2", "1", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/external_news/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "1", "5", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/external_news/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "1", "5", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/external_news/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "1", "5", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/external_news/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "1", "5", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/facility",
+          "title": "Facility",
+          "hierarchy": ["16", "2", "1", "6"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/facility/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "1", "6", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/facility/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "1", "6", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/facility/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "1", "6", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/facility/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "1", "6", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/feature",
+          "title": "Feature",
+          "hierarchy": ["16", "2", "1", "7"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/feature/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "1", "7", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/feature/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "1", "7", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/feature/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "1", "7", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/feature/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "1", "7", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/provider",
+          "title": "Healthcare Provider",
+          "hierarchy": ["16", "2", "1", "8"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/provider/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "1", "8", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/provider/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "1", "8", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/provider/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "1", "8", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/provider/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "1", "8", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/article",
+          "title": "News Article",
+          "hierarchy": ["16", "2", "1", "9"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/article/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "1", "9", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/article/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "1", "9", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/article/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "1", "9", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/article/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "1", "9", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/page",
+          "title": "Page",
+          "hierarchy": ["16", "2", "1", "10"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/page/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "1", "10", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/page/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "1", "10", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/page/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "1", "10", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/page/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "1", "10", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/service_line",
+          "title": "Service Line",
+          "hierarchy": ["16", "2", "1", "11"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/service_line/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "1", "11", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/service_line/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "1", "11", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/service_line/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "1", "11", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/service_line/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "1", "11", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/story",
+          "title": "Story",
+          "hierarchy": ["16", "2", "1", "12"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/story/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "1", "12", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/story/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "1", "12", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/story/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "1", "12", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/types/manage/story/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "1", "12", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/display-modes",
+          "title": "Display modes",
+          "hierarchy": ["16", "2", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/display-modes/form",
+          "title": "Form modes",
+          "hierarchy": ["16", "2", "2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/display-modes/form/add",
+          "title": "Add form mode",
+          "hierarchy": ["16", "2", "2", "0", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/display-modes/view",
+          "title": "View modes",
+          "hierarchy": ["16", "2", "2", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/display-modes/view/add",
+          "title": "Add view mode",
+          "hierarchy": ["16", "2", "2", "1", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media",
+          "title": "Media types",
+          "hierarchy": ["16", "2", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/add",
+          "title": "Add media type",
+          "hierarchy": ["16", "2", "3", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/document",
+          "title": "Document",
+          "hierarchy": ["16", "2", "3", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/document/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "3", "1", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/document/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "3", "1", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/document/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "3", "1", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/document/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "3", "1", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/image",
+          "title": "Image",
+          "hierarchy": ["16", "2", "3", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/image/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "3", "2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/image/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "3", "2", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/image/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "3", "2", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/image/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "3", "2", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/remote_video",
+          "title": "Remote video",
+          "hierarchy": ["16", "2", "3", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/remote_video/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "3", "3", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/remote_video/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "3", "3", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/remote_video/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "3", "3", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/remote_video/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "3", "3", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/video",
+          "title": "Video",
+          "hierarchy": ["16", "2", "3", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/video/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "3", "4", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/video/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "3", "4", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/video/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "3", "4", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/media/manage/video/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "3", "4", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu",
+          "title": "Menus",
+          "hierarchy": ["16", "2", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/add",
+          "title": "Add menu",
+          "hierarchy": ["16", "2", "4", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/admin",
+          "title": "Administration",
+          "hierarchy": ["16", "2", "4", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/admin/add",
+          "title": "Add link",
+          "hierarchy": ["16", "2", "4", "1", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/feature-links",
+          "title": "Featured Links",
+          "hierarchy": ["16", "2", "4", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/feature-links/add",
+          "title": "Add link",
+          "hierarchy": ["16", "2", "4", "2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/feature-links/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "4", "2", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/footer",
+          "title": "Footer",
+          "hierarchy": ["16", "2", "4", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/footer/add",
+          "title": "Add link",
+          "hierarchy": ["16", "2", "4", "3", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/header-menu",
+          "title": "Header Menu",
+          "hierarchy": ["16", "2", "4", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/header-menu/add",
+          "title": "Add link",
+          "hierarchy": ["16", "2", "4", "4", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/header-menu/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "4", "4", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/header-utility",
+          "title": "Header Utility",
+          "hierarchy": ["16", "2", "4", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/header-utility/add",
+          "title": "Add link",
+          "hierarchy": ["16", "2", "4", "5", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/header-utility/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "4", "5", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/main",
+          "title": "Main navigation",
+          "hierarchy": ["16", "2", "4", "6"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/main/add",
+          "title": "Add link",
+          "hierarchy": ["16", "2", "4", "6", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/tools",
+          "title": "Tools",
+          "hierarchy": ["16", "2", "4", "7"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/tools/add",
+          "title": "Add link",
+          "hierarchy": ["16", "2", "4", "7", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/account",
+          "title": "User account menu",
+          "hierarchy": ["16", "2", "4", "8"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/menu/manage/account/add",
+          "title": "Add link",
+          "hierarchy": ["16", "2", "4", "8", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/paragraphs_type",
+          "title": "Paragraph types",
+          "hierarchy": ["16", "2", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/paragraphs_type/accordion_section",
+          "title": "Accordion Section",
+          "hierarchy": ["16", "2", "5", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/paragraphs_type/accordion_section/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "5", "0", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/paragraphs_type/accordion_section/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "5", "0", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/paragraphs_type/accordion_section/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "5", "0", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/paragraphs_type/accordion_section/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "5", "0", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/paragraphs_type/add",
+          "title": "Add paragraph type",
+          "hierarchy": ["16", "2", "5", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/paragraphs_type/schedule",
+          "title": "Schedule",
+          "hierarchy": ["16", "2", "5", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/paragraphs_type/schedule/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "5", "2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/paragraphs_type/schedule/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "5", "2", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/paragraphs_type/schedule/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "5", "2", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/paragraphs_type/schedule/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "5", "2", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy",
+          "title": "Taxonomy",
+          "hierarchy": ["16", "2", "6"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/add",
+          "title": "Add vocabulary",
+          "hierarchy": ["16", "2", "6", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/categories/overview",
+          "title": "Categories",
+          "hierarchy": ["16", "2", "6", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/categories",
+          "title": "Edit",
+          "hierarchy": ["16", "2", "6", "1", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/categories/overview/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "6", "1", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/categories/overview/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "6", "1", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/categories/overview/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "6", "1", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/categories/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "6", "1", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/conditions/overview",
+          "title": "Conditions",
+          "hierarchy": ["16", "2", "6", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/conditions",
+          "title": "Edit",
+          "hierarchy": ["16", "2", "6", "2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/conditions/overview/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "6", "2", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/conditions/overview/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "6", "2", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/conditions/overview/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "6", "2", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/conditions/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "6", "2", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/event_types/overview",
+          "title": "Event Types",
+          "hierarchy": ["16", "2", "6", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/event_types",
+          "title": "Edit",
+          "hierarchy": ["16", "2", "6", "3", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/event_types/overview/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "6", "3", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/event_types/overview/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "6", "3", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/event_types/overview/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "6", "3", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/event_types/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "6", "3", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/languages/overview",
+          "title": "Languages",
+          "hierarchy": ["16", "2", "6", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/languages",
+          "title": "Edit",
+          "hierarchy": ["16", "2", "6", "4", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/languages/overview/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "6", "4", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/languages/overview/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "6", "4", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/languages/overview/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "6", "4", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/languages/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "6", "4", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/locations/overview",
+          "title": "Locations",
+          "hierarchy": ["16", "2", "6", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/locations",
+          "title": "Edit",
+          "hierarchy": ["16", "2", "6", "5", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/locations/overview/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "6", "5", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/locations/overview/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "6", "5", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/locations/overview/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "6", "5", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/locations/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "6", "5", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/services/overview",
+          "title": "Services/Treatments/Procedures/Products",
+          "hierarchy": ["16", "2", "6", "6"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/services",
+          "title": "Edit",
+          "hierarchy": ["16", "2", "6", "6", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/services/overview/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "6", "6", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/services/overview/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "6", "6", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/services/overview/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "6", "6", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/services/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "6", "6", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/specialty/overview",
+          "title": "Specialty/Department",
+          "hierarchy": ["16", "2", "6", "7"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/specialty",
+          "title": "Edit",
+          "hierarchy": ["16", "2", "6", "7", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/specialty/overview/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "6", "7", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/specialty/overview/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "6", "7", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/specialty/overview/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "6", "7", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/specialty/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "6", "7", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/tags/overview",
+          "title": "Tags",
+          "hierarchy": ["16", "2", "6", "8"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/tags",
+          "title": "Edit",
+          "hierarchy": ["16", "2", "6", "8", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/tags/overview/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "6", "8", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/tags/overview/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "6", "8", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/tags/overview/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "6", "8", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/tags/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "6", "8", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/testing/overview",
+          "title": "Testing",
+          "hierarchy": ["16", "2", "6", "9"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/testing",
+          "title": "Edit",
+          "hierarchy": ["16", "2", "6", "9", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/testing/overview/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "6", "9", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/testing/overview/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "6", "9", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/testing/overview/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "6", "9", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/testing/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "6", "9", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/treatments/overview",
+          "title": "Treatments",
+          "hierarchy": ["16", "2", "6", "10"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/treatments",
+          "title": "Edit",
+          "hierarchy": ["16", "2", "6", "10", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/treatments/overview/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "2", "6", "10", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/treatments/overview/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "2", "6", "10", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/treatments/overview/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "2", "6", "10", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/structure/taxonomy/manage/treatments/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "2", "6", "10", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/appearance",
+          "title": "Appearance",
+          "hierarchy": ["16", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/appearance/toolshed-breakpoints",
+          "title": "Breakpoints",
+          "hierarchy": ["16", "3", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/theme/install",
+          "title": "Install new theme",
+          "hierarchy": ["16", "3", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/appearance/settings",
+          "title": "Settings",
+          "hierarchy": ["16", "3", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/appearance/settings/claro",
+          "title": "Claro",
+          "hierarchy": ["16", "3", "2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/appearance/settings/gin",
+          "title": "Gin",
+          "hierarchy": ["16", "3", "2", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/appearance/settings/olivero",
+          "title": "Olivero",
+          "hierarchy": ["16", "3", "2", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/appearance/settings/outline_frontend",
+          "title": "Outline Frontend",
+          "hierarchy": ["16", "3", "2", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/theme/update",
+          "title": "Update",
+          "hierarchy": ["16", "3", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/modules",
+          "title": "Extend",
+          "hierarchy": ["16", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/modules/install",
+          "title": "Install new module",
+          "hierarchy": ["16", "4", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/modules/uninstall",
+          "title": "Uninstall module",
+          "hierarchy": ["16", "4", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/modules/update",
+          "title": "Update",
+          "hierarchy": ["16", "4", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config",
+          "title": "Configuration",
+          "hierarchy": ["16", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/people",
+          "title": "People",
+          "hierarchy": ["16", "5", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/people/accounts",
+          "title": "Account settings",
+          "hierarchy": ["16", "5", "0", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/people/accounts/fields",
+          "title": "Manage fields",
+          "hierarchy": ["16", "5", "0", "0", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/people/accounts/form-display",
+          "title": "Manage form display",
+          "hierarchy": ["16", "5", "0", "0", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/people/accounts/display",
+          "title": "Manage display",
+          "hierarchy": ["16", "5", "0", "0", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/system",
+          "title": "System",
+          "hierarchy": ["16", "5", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/system/site-information",
+          "title": "Basic site settings",
+          "hierarchy": ["16", "5", "1", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/system/stage_file_proxy",
+          "title": "Stage File Proxy settings",
+          "hierarchy": ["16", "5", "1", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/system/cron",
+          "title": "Cron",
+          "hierarchy": ["16", "5", "1", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/system/delete-orphans",
+          "title": "Delete orphaned composite entities",
+          "hierarchy": ["16", "5", "1", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/system/seckit",
+          "title": "Security Kit settings",
+          "hierarchy": ["16", "5", "1", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/content",
+          "title": "Content authoring",
+          "hierarchy": ["16", "5", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/content/layout-builder-restrictions",
+          "title": "Layout Builder Restrictions",
+          "hierarchy": ["16", "5", "2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/content/linkit",
+          "title": "Linkit",
+          "hierarchy": ["16", "5", "2", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/content/paragraphs",
+          "title": "Paragraphs settings",
+          "hierarchy": ["16", "5", "2", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/content/formats",
+          "title": "Text formats and editors",
+          "hierarchy": ["16", "5", "2", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/content/layout_builder_quick_add",
+          "title": "Layout Builder Quick Add",
+          "hierarchy": ["16", "5", "2", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/user-interface",
+          "title": "User interface",
+          "hierarchy": ["16", "5", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/user-interface/admin-toolbar-search-settings",
+          "title": "Admin Toolbar Search",
+          "hierarchy": ["16", "5", "3", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/user-interface/admin-toolbar-tools",
+          "title": "Admin Toolbar Tools",
+          "hierarchy": ["16", "5", "3", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/user-interface/admin-toolbar",
+          "title": "Admin Toolbar",
+          "hierarchy": ["16", "5", "3", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/user-interface/chosen",
+          "title": "Chosen",
+          "hierarchy": ["16", "5", "3", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/user-interface/toolshed-js",
+          "title": "Toolshed JS",
+          "hierarchy": ["16", "5", "3", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/gin_lb/settings",
+          "title": "Gin Layout Builder Settings",
+          "hierarchy": ["16", "5", "3", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/development",
+          "title": "Development",
+          "hierarchy": ["16", "5", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/development/performance",
+          "title": "Performance",
+          "hierarchy": ["16", "5", "4", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/development/logging",
+          "title": "Logging and errors",
+          "hierarchy": ["16", "5", "4", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/development/maintenance",
+          "title": "Maintenance mode",
+          "hierarchy": ["16", "5", "4", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/development/configuration/config-split",
+          "title": "Configuration Split settings",
+          "hierarchy": ["16", "5", "4", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/development/configuration",
+          "title": "Configuration synchronization",
+          "hierarchy": ["16", "5", "4", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/development/configuration/full/import",
+          "title": "Import",
+          "hierarchy": ["16", "5", "4", "4", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/development/configuration/full/export",
+          "title": "Export",
+          "hierarchy": ["16", "5", "4", "4", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/development/configuration/ignore",
+          "title": "Ignore",
+          "hierarchy": ["16", "5", "4", "4", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/development/dcd",
+          "title": "Default Content Deploy",
+          "hierarchy": ["16", "5", "4", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/development/dcd/export",
+          "title": "Export",
+          "hierarchy": ["16", "5", "4", "5", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/development/dcd/import",
+          "title": "Import",
+          "hierarchy": ["16", "5", "4", "5", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/media",
+          "title": "Media",
+          "hierarchy": ["16", "5", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/media/file-system",
+          "title": "File system",
+          "hierarchy": ["16", "5", "5", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/media/iconset",
+          "title": "Iconset",
+          "hierarchy": ["16", "5", "5", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/media/image-styles",
+          "title": "Image styles",
+          "hierarchy": ["16", "5", "5", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/media/media-library",
+          "title": "Media Library settings",
+          "hierarchy": ["16", "5", "5", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/media/media-settings",
+          "title": "Media settings",
+          "hierarchy": ["16", "5", "5", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/media/image-toolkit",
+          "title": "Image toolkit",
+          "hierarchy": ["16", "5", "5", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/search",
+          "title": "Search and metadata",
+          "hierarchy": ["16", "5", "6"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/search/path",
+          "title": "URL aliases",
+          "hierarchy": ["16", "5", "6", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/search/metatag",
+          "title": "Metatag",
+          "hierarchy": ["16", "5", "6", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/search/metatag/settings",
+          "title": "Settings",
+          "hierarchy": ["16", "5", "6", "1", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/search/search-api",
+          "title": "Search API",
+          "hierarchy": ["16", "5", "6", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/search/simplesitemap",
+          "title": "Simple XML Sitemap",
+          "hierarchy": ["16", "5", "6", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/search/simplesitemap",
+          "title": "Sitemaps",
+          "hierarchy": ["16", "5", "6", "3", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/search/simplesitemap/entities",
+          "title": "Inclusion",
+          "hierarchy": ["16", "5", "6", "3", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/search/redirect",
+          "title": "URL redirects",
+          "hierarchy": ["16", "5", "6", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/search/redirect/add",
+          "title": "Add redirect",
+          "hierarchy": ["16", "5", "6", "4", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/search/redirect/settings",
+          "title": "Settings",
+          "hierarchy": ["16", "5", "6", "4", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/search/facets",
+          "title": "Facets",
+          "hierarchy": ["16", "5", "6", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/regional",
+          "title": "Regional and language",
+          "hierarchy": ["16", "5", "7"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/regional/settings",
+          "title": "Regional settings",
+          "hierarchy": ["16", "5", "7", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/regional/date-time",
+          "title": "Date and time formats",
+          "hierarchy": ["16", "5", "7", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/regional/language",
+          "title": "Languages",
+          "hierarchy": ["16", "5", "7", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/regional/language/add",
+          "title": "Add language",
+          "hierarchy": ["16", "5", "7", "2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/regional/language/detection",
+          "title": "Detection and selection",
+          "hierarchy": ["16", "5", "7", "2", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/regional/content-language",
+          "title": "Content language",
+          "hierarchy": ["16", "5", "7", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/regional/smart-date",
+          "title": "Smart date formats",
+          "hierarchy": ["16", "5", "7", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/services",
+          "title": "Web services",
+          "hierarchy": ["16", "5", "8"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/services/rss-publishing",
+          "title": "RSS publishing",
+          "hierarchy": ["16", "5", "8", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/services/linkset",
+          "title": "Menu Linkset Settings",
+          "hierarchy": ["16", "5", "8", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/workflow",
+          "title": "Workflow",
+          "hierarchy": ["16", "5", "9"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/config/workflow/workflows",
+          "title": "Workflows",
+          "hierarchy": ["16", "5", "9", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people",
+          "title": "People",
+          "hierarchy": ["16", "6"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/create",
+          "title": "Add user",
+          "hierarchy": ["16", "6", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/permissions",
+          "title": "Permissions",
+          "hierarchy": ["16", "6", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/roles",
+          "title": "Roles",
+          "hierarchy": ["16", "6", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/roles/add",
+          "title": "Add role",
+          "hierarchy": ["16", "6", "2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/roles/manage/anonymous",
+          "title": "Anonymous user",
+          "hierarchy": ["16", "6", "2", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/permissions/anonymous",
+          "title": "Edit permissions",
+          "hierarchy": ["16", "6", "2", "1", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/roles/manage/authenticated",
+          "title": "Authenticated user",
+          "hierarchy": ["16", "6", "2", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/permissions/authenticated",
+          "title": "Edit permissions",
+          "hierarchy": ["16", "6", "2", "2", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/roles/manage/content_creator",
+          "title": "Content creator",
+          "hierarchy": ["16", "6", "2", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/roles/manage/content_creator/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "6", "2", "3", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/permissions/content_creator",
+          "title": "Edit permissions",
+          "hierarchy": ["16", "6", "2", "3", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/roles/manage/editor",
+          "title": "Editor",
+          "hierarchy": ["16", "6", "2", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/roles/manage/editor/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "6", "2", "4", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/permissions/editor",
+          "title": "Edit permissions",
+          "hierarchy": ["16", "6", "2", "4", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/roles/manage/administrator",
+          "title": "Administrator",
+          "hierarchy": ["16", "6", "2", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/roles/manage/administrator/delete",
+          "title": "Delete",
+          "hierarchy": ["16", "6", "2", "5", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/people/permissions/administrator",
+          "title": "Edit permissions",
+          "hierarchy": ["16", "6", "2", "5", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/reports",
+          "title": "Reports",
+          "hierarchy": ["16", "7"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/reports/status",
+          "title": "Status report",
+          "hierarchy": ["16", "7", "0"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/reports/updates",
+          "title": "Available updates",
+          "hierarchy": ["16", "7", "1"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/reports/dblog",
+          "title": "Recent log messages",
+          "hierarchy": ["16", "7", "2"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/reports/fields",
+          "title": "Field list",
+          "hierarchy": ["16", "7", "3"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/reports/metatag-plugins",
+          "title": "Metatag plugins",
+          "hierarchy": ["16", "7", "4"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/reports/access-denied",
+          "title": "Top 'access denied' errors",
+          "hierarchy": ["16", "7", "5"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/reports/page-not-found",
+          "title": "Top 'page not found' errors",
+          "hierarchy": ["16", "7", "6"],
+          "machine-name": ["admin"]
+        },
+        {
+          "href": "/admin/help",
+          "title": "Help",
+          "hierarchy": ["16", "8"],
+          "machine-name": ["admin"]
+        }
+      ]
+    }
+  ]
+}

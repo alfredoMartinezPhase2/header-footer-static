@@ -1,0 +1,99 @@
+{
+  "linkset": [
+    {
+      "anchor": "/system/menu/footer/linkset",
+      "item": [
+        {
+          "href": "",
+          "title": "About Us",
+          "hierarchy": ["0"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "/who-are-you",
+          "title": "Who We Are",
+          "hierarchy": ["0", "0"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "/mission-vision-values",
+          "title": "Mission, Vision + Values",
+          "hierarchy": ["0", "1"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "/meet-our-team",
+          "title": "Meet Our Team",
+          "hierarchy": ["0", "2"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "/diversity-equity-inclusion",
+          "title": "Diversity, Equity + Inclusion",
+          "hierarchy": ["0", "3"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "",
+          "title": "For Professionals",
+          "hierarchy": ["1"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "/training-education",
+          "title": "Training + Education",
+          "hierarchy": ["1", "0"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "/continuing-medical-education",
+          "title": "Continuing Medical Education",
+          "hierarchy": ["1", "1"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "/departments",
+          "title": "Departments",
+          "hierarchy": ["1", "2"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "/refer-a-patient",
+          "title": "Refer a Patient",
+          "hierarchy": ["1", "3"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "/careers",
+          "title": "Careers",
+          "hierarchy": ["2"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "/apply-now",
+          "title": "Apply Now",
+          "hierarchy": ["2", "0"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "/explore-careers",
+          "title": "Explore Careers",
+          "hierarchy": ["2", "1"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "/employment-benefits",
+          "title": "Employment Benefits",
+          "hierarchy": ["2", "2"],
+          "machine-name": ["footer"]
+        },
+        {
+          "href": "/application-process",
+          "title": "Application Process",
+          "hierarchy": ["2", "3"],
+          "machine-name": ["footer"]
+        }
+      ]
+    }
+  ]
+}

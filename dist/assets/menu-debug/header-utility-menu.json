@@ -1,0 +1,39 @@
+{
+  "linkset": [
+    {
+      "anchor": "/system/menu/header-utility/linkset",
+      "item": [
+        {
+          "href": "/pay-a-bill",
+          "title": "Pay a bill",
+          "hierarchy": ["0"],
+          "machine-name": ["header-utility"]
+        },
+        {
+          "href": "/careers",
+          "title": "Careers",
+          "hierarchy": ["1"],
+          "machine-name": ["header-utility"]
+        },
+        {
+          "href": "/giving",
+          "title": "Giving",
+          "hierarchy": ["2"],
+          "machine-name": ["header-utility"]
+        },
+        {
+          "href": "/covid-19",
+          "title": "COVID-19",
+          "hierarchy": ["3"],
+          "machine-name": ["header-utility"]
+        },
+        {
+          "href": "/my-tufts-med",
+          "title": "myTuftsMed",
+          "hierarchy": ["4"],
+          "machine-name": ["header-utility"]
+        }
+      ]
+    }
+  ]
+}

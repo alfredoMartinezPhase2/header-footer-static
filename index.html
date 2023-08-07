@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TUFTS</title>
+  <link rel="stylesheet" href="theme.css">
+  <link rel="stylesheet" href="outline.fonts.css">
+  <link rel="stylesheet" href="outline.theme.css">
+  <script src="./index.js" type="module"></script>
+</head>
+
+<body>
+
+  <tufts-header debug-menu="true" menu-id="main" menu-name="Main Navigation" menu-lang="" menu-type="menu"
+    hamburger-menu-name="main menu" search-label="Search" search-url="search">
+ 
+  </tufts-header>
+  <tufts-footer>
+    <!--slotsController cloned this named-slot 'logo' into the shadow DOM-->
+    <div slot="logo">
+      <svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_8033_15298)">
+          <path
+            d="M36 0C28.8799 0 21.9197 2.11136 15.9995 6.06709C10.0793 10.0228 5.46511 15.6453 2.74035 22.2234C0.0155983 28.8015 -0.697322 36.0399 0.691746 43.0233C2.08081 50.0066 5.50948 56.4212 10.5442 61.4558C15.5789 66.4905 21.9934 69.9192 28.9768 71.3083C35.9601 72.6973 43.1985 71.9844 49.7766 69.2597C56.3548 66.5349 61.9772 61.9207 65.9329 56.0005C69.8887 50.0804 72 43.1201 72 36C72 26.4522 68.2072 17.2955 61.4559 10.5442C54.7046 3.79285 45.5478 0 36 0V0ZM27.81 51.39V36.23L34.41 44.28H37.41L44.27 36.28V51.39H51.06V60.21H20.89V51.39H27.81ZM59.81 33.39H51.11V26.46H44.31L35.9 36.29L27.9 26.46H20.87V33.4H12.23V16.75H59.77L59.81 33.39Z"
+            fill="white"></path>
+        </g>
+        <defs>
+          <clipPath id="clip0_8033_15298">
+            <rect width="72" height="72" fill="white"></rect>
+          </clipPath>
+        </defs>
+      </svg>
+    </div>
+    <div slot="menu">
+      <tufts-menu debug-menu="true" menu-id="footer" menu-name="Footer" color-mode="dark" menu-heading-size="h3"
+        menu-lang="" menu-type="menu">
+      </tufts-menu>
+    </div>
+    <!--slotsController cloned this named-slot 'address' into the shadow DOM-->
+    <div slot="address">
+      <strong>Tufts Medicine Main Office</strong>
+      <br>
+      800 District Avenue, Suite 520
+      <br>
+      Burlington, MA 01803
+    </div>
+    <!--slotsController cloned this named-slot 'phone' into the shadow DOM-->
+    <div slot="phone">
+      978.942.2220
+    </div>
+    <!--slotsController cloned this named-slot 'social-links' into the shadow DOM-->
+    <div slot="social-links">
+      <tufts-social-links fb-link="https://www.facebook.com/tuftsmedicine" tw-link="https://twitter.com/tuftsmedicine"
+        li-link="https://www.linkedin.com/company/tuftsmedicine/" yt-link="https://www.youtube.com/@tuftsmedicalcenter"
+        screen-reader-text="connect on" has-separator="" white-icons="" increased-gap="md" link-size="2.5rem">
+      </tufts-social-links>
+    </div>
+    <!--slotsController cloned this named-slot 'copyright' into the shadow DOM-->
+    <div slot="copyright">
+      ©2022 Tufts Medicine
+    </div>
+    <!--slotsController cloned this named-slot 'terms' into the shadow DOM-->
+    <div slot="terms">
+      <a href="https://www.tuftsmedicalcenter.org/privacy-policy">
+        Site Terms + Conditions
+      </a>
+    </div>
+    <!--slotsController cloned this named-slot 'note' into the shadow DOM-->
+    <div slot="note">
+      The primary health system of <a href="https://www.tufts.edu/">Tufts University School Medicine</a>
+    </div>
+  </tufts-footer>
+</body>
+
+</html>

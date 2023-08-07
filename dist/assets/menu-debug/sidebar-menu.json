@@ -1,0 +1,603 @@
+{
+  "linkset": [
+    {
+      "anchor": "/system/menu/sidebar/linkset",
+      "item": [
+        {
+          "href": "/get-care",
+          "title": "Get Care",
+          "hierarchy": ["0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/find-a-doctor",
+          "title": "Find a Doctor",
+          "hierarchy": ["0", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/find-a-location",
+          "title": "Find a Location",
+          "hierarchy": ["0", "1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health",
+          "title": "Circle Health",
+          "hierarchy": ["0", "1", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health/aerial-view-our-hospital-campuses",
+          "title": "Aerial View of Our Hospital Campuses",
+          "hierarchy": ["0", "1", "0", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health/affiliated-organizations",
+          "title": "Affiliated Organizations",
+          "hierarchy": ["0", "1", "0", "1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health/ceo-corner",
+          "title": "CEO Corner",
+          "hierarchy": ["0", "1", "0", "2"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health/circle-health-community",
+          "title": "Circle Health in the Community",
+          "hierarchy": ["0", "1", "0", "3"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health/test-1",
+          "title": "Test 1",
+          "hierarchy": ["0", "1", "0", "3", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health/test-2",
+          "title": "Test 2",
+          "hierarchy": ["0", "1", "0", "3", "1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health/test-3",
+          "title": "Test 3",
+          "hierarchy": ["0", "1", "0", "3", "2"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health/sub-test-1",
+          "title": "Sub-test 1",
+          "hierarchy": ["0", "1", "0", "3", "2", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health/sub-test-2",
+          "title": "Sub-test 2",
+          "hierarchy": ["0", "1", "0", "3", "2", "1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health/test-4",
+          "title": "Test 4",
+          "hierarchy": ["0", "1", "0", "3", "3"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health/contact-us-form",
+          "title": "Contact Us Form",
+          "hierarchy": ["0", "1", "0", "4"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health/contact-us",
+          "title": "Contact Us",
+          "hierarchy": ["0", "1", "0", "5"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/circle-health/mytuftsmed",
+          "title": "myTuftsMed",
+          "hierarchy": ["0", "1", "0", "6"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital",
+          "title": "Lowell General Hospital",
+          "hierarchy": ["0", "1", "1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/vendor-information-center",
+          "title": "Vendor Information Center",
+          "hierarchy": ["0", "1", "1", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital",
+          "title": "Melrose Wakefield Hospital",
+          "hierarchy": ["0", "1", "2"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/administration",
+          "title": "Administration",
+          "hierarchy": ["0", "1", "2", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/annual-report",
+          "title": "Annual Report",
+          "hierarchy": ["0", "1", "2", "1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/board-trustees",
+          "title": "Board of Trustees",
+          "hierarchy": ["0", "1", "2", "2"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/center-professional-development",
+          "title": "Center for Professional Development",
+          "hierarchy": ["0", "1", "2", "3"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/commitment-quality",
+          "title": "Commitment to Quality",
+          "hierarchy": ["0", "1", "2", "4"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/communicate-feedback-about-your-care",
+          "title": "Communicate Feedback About Your Care",
+          "hierarchy": ["0", "1", "2", "5"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/community-activities-programs",
+          "title": "Community Activities & Programs",
+          "hierarchy": ["0", "1", "2", "6"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/community-benefits",
+          "title": "Community Benefits",
+          "hierarchy": ["0", "1", "2", "7"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/community-health-education",
+          "title": "Community Health Education",
+          "hierarchy": ["0", "1", "2", "8"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/community-health-implementation-plan",
+          "title": "Community Health Implementation Plan",
+          "hierarchy": ["0", "1", "2", "9"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/community-health-needs-assessment",
+          "title": "Community Health Needs Assessment",
+          "hierarchy": ["0", "1", "2", "10"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/contact-us",
+          "title": "Contact Us",
+          "hierarchy": ["0", "1", "2", "11"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/continuing-medical-education",
+          "title": "Continuing Medical Education",
+          "hierarchy": ["0", "1", "2", "12"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/daisy-award-extraordinary-nurses",
+          "title": "DAISY Award for Extraordinary Nurses",
+          "hierarchy": ["0", "1", "2", "13"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/financial-assistance-policy",
+          "title": "Financial Assistance Policy",
+          "hierarchy": ["0", "1", "2", "14"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/financial-counseling",
+          "title": "Financial Counseling",
+          "hierarchy": ["0", "1", "2", "15"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/nurses",
+          "title": "For Nurses",
+          "hierarchy": ["0", "1", "2", "16"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/interpreter-services",
+          "title": "Interpreter Services",
+          "hierarchy": ["0", "1", "2", "17"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/medical-records",
+          "title": "Medical Records",
+          "hierarchy": ["0", "1", "2", "18"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/mission-vision-values",
+          "title": "Mission, Vision, Values",
+          "hierarchy": ["0", "1", "2", "19"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/our-nursing-approach",
+          "title": "Our Nursing Approach",
+          "hierarchy": ["0", "1", "2", "20"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/pastoral-care-chaplaincy-services",
+          "title": "Pastoral Care & Chaplaincy Services",
+          "hierarchy": ["0", "1", "2", "21"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/physician-leadership",
+          "title": "Physician Leadership",
+          "hierarchy": ["0", "1", "2", "22"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/schwartz-center-rounds",
+          "title": "Schwartz Center Rounds",
+          "hierarchy": ["0", "1", "2", "23"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/visitors-guide",
+          "title": "Visitors’ Guide",
+          "hierarchy": ["0", "1", "2", "24"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/volunteer",
+          "title": "Volunteer",
+          "hierarchy": ["0", "1", "2", "25"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center",
+          "title": "Tufts Medical Center",
+          "hierarchy": ["0", "1", "3"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/nursing",
+          "title": "Nursing",
+          "hierarchy": ["0", "1", "3", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/center-of-excellence",
+          "title": "Center of Excellence",
+          "hierarchy": ["0", "1", "3", "0", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/nursing/center-of-excellence/novice-nurse-program",
+          "title": "Novice Nurse Program",
+          "hierarchy": ["0", "1", "3", "0", "0", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/nursing/nursing-excellence-awards",
+          "title": "Nursing Excellence Awards",
+          "hierarchy": ["0", "1", "3", "0", "1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/nursing/robin-and-david-jaye-center-nursing-excellence",
+          "title": "The Robin and David Jaye Center for Nursing Excellence",
+          "hierarchy": ["0", "1", "3", "0", "2"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/tufts-medicine-care-home",
+          "title": "Tufts Medicine Care at Home",
+          "hierarchy": ["0", "1", "4"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/tufts-medicine-care-home/communities-served",
+          "title": "Communities Served",
+          "hierarchy": ["0", "1", "4", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/tufts-medicine-care-home/leadership",
+          "title": "Leadership",
+          "hierarchy": ["0", "1", "4", "1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/tufts-medicine-care-home/office-locations",
+          "title": "Office Locations",
+          "hierarchy": ["0", "1", "4", "2"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/tufts-medicine-care-home/our-history",
+          "title": "Our History",
+          "hierarchy": ["0", "1", "4", "3"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/tufts-medicine-care-home/patient-resources",
+          "title": "Patient Resources",
+          "hierarchy": ["0", "1", "4", "4"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/care/locations/tufts-medicine-care-home/volunteering",
+          "title": "Volunteering",
+          "hierarchy": ["0", "1", "4", "5"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/find-a-doctor",
+          "title": "Find a Doctor",
+          "hierarchy": ["0", "2"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/request-an-appointment",
+          "title": "Request an Appointment",
+          "hierarchy": ["0", "3"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/insurance",
+          "title": "Insurance",
+          "hierarchy": ["0", "4"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/cost-estimates",
+          "title": "Cost Estimates",
+          "hierarchy": ["0", "5"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/services-treatments",
+          "title": "Services + Treatments",
+          "hierarchy": ["0", "6"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/our-services",
+          "title": "Our Services",
+          "hierarchy": ["1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "",
+          "title": "Specialty Areas of Care",
+          "hierarchy": ["1", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/orthopedics-sports-medicine",
+          "title": "Orthopedics+ Sports Medicine",
+          "hierarchy": ["1", "1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/gastrointestinal-digestive-health",
+          "title": "Gastrointestinal + Digestive Health",
+          "hierarchy": ["1", "2"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/primary-care",
+          "title": "Primary Care",
+          "hierarchy": ["1", "3"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/maternity-care",
+          "title": "Maternity Care",
+          "hierarchy": ["1", "4"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/surgery",
+          "title": "Surgery",
+          "hierarchy": ["1", "5"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "",
+          "title": "Other Areas of Care",
+          "hierarchy": ["1", "6"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/emergency-medicine",
+          "title": "Emergency Medicine",
+          "hierarchy": ["1", "7"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/urgent-care",
+          "title": "Urgent Care",
+          "hierarchy": ["1", "8"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/home-care",
+          "title": "Home Care",
+          "hierarchy": ["1", "9"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/hospice-palliative-care",
+          "title": "Hospice + Palliative Care",
+          "hierarchy": ["1", "10"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/preventative-care",
+          "title": "Preventative Care",
+          "hierarchy": ["1", "11"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/all-services-treatments",
+          "title": "All services + treatments",
+          "hierarchy": ["1", "12"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/research",
+          "title": "Research + Clinical Trials",
+          "hierarchy": ["2"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/meet-our-researchers",
+          "title": "Meet Our Researchers",
+          "hierarchy": ["2", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/partnerships-collaborations",
+          "title": "Partnerships + Collaborations",
+          "hierarchy": ["2", "1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/research-institutes-departmental-research",
+          "title": "Research Institutes + Departmental Research",
+          "hierarchy": ["2", "2"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/cardiovascular-center-research-and-innovation-cvcri",
+          "title": "CardioVascular Center for Research and Innovation (CVCRI)",
+          "hierarchy": ["2", "2", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr",
+          "title": "Center for Evaluation of Value and Risk in Health (CEVR)",
+          "hierarchy": ["2", "2", "1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr/cevr-newsletter",
+          "title": "CEVR Newsletter",
+          "hierarchy": ["2", "2", "1", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr/cevr-value-databases",
+          "title": "CEVR Value Databases",
+          "hierarchy": ["2", "2", "1", "1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr/publications",
+          "title": "Publications",
+          "hierarchy": ["2", "2", "1", "2"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr/research-projects",
+          "title": "Research Projects",
+          "hierarchy": ["2", "2", "1", "3"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr/researchers-staff",
+          "title": "Researchers + Staff",
+          "hierarchy": ["2", "2", "1", "4"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr/sponsor-cevr",
+          "title": "Sponsor CEVR Research",
+          "hierarchy": ["2", "2", "1", "5"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/research-offices-contacts",
+          "title": "Research Offices + Contacts",
+          "hierarchy": ["2", "3"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/research-at-tufts-medicine",
+          "title": "Research at Tufts Medicine",
+          "hierarchy": ["2", "4"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/clinical-trials-at-tufts-medicine",
+          "title": "Clinical Trials at Tufts Medicine",
+          "hierarchy": ["2", "5"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/for-patients",
+          "title": "For Patients",
+          "hierarchy": ["3"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/plan-your-visit",
+          "title": "Plan Your Visit",
+          "hierarchy": ["3", "0"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/request-medical-records",
+          "title": "Request Medical Records",
+          "hierarchy": ["3", "1"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/my-tufts-med",
+          "title": "myTuftsMed (patient portal)",
+          "hierarchy": ["3", "2"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "/classes-events",
+          "title": "Classes + Events",
+          "hierarchy": ["3", "3"],
+          "machine-name": ["sidebar"]
+        },
+        {
+          "href": "",
+          "title": "All Patient Resources",
+          "hierarchy": ["3", "4"],
+          "machine-name": ["sidebar"]
+        }
+      ]
+    }
+  ]
+}

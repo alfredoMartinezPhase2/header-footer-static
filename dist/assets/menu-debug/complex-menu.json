@@ -1,0 +1,63 @@
+{
+  "linkset": [
+    {
+      "anchor": "/system/menu/location/linkset",
+      "item": [
+        {
+          "href": "/en",
+          "title": "Home",
+          "hierarchy": ["0"],
+          "machine-name": ["location"]
+        },
+        {
+          "href": "",
+          "title": "Click Me",
+          "hierarchy": ["1"],
+          "machine-name": ["location"]
+        },
+        {
+          "href": "/en/articles",
+          "title": "Articles",
+          "hierarchy": ["1", "0"],
+          "machine-name": ["location"]
+        },
+        {
+          "href": "/en/recipes",
+          "title": "Recipes",
+          "hierarchy": ["2"],
+          "machine-name": ["location"]
+        },
+        {
+          "href": "/en/recipes/vegan-chocolate-and-nut-brownies",
+          "title": "Chocolate2",
+          "hierarchy": ["2", "0"],
+          "machine-name": ["location"]
+        },
+        {
+          "href": "/en/recipes/vegan-chocolate-and-nut-brownies",
+          "title": "Chocolate3",
+          "hierarchy": ["2", "0", "0"],
+          "machine-name": ["location"]
+        },
+        {
+          "href": "/en/recipes/vegan-chocolate-and-nut-brownies",
+          "title": "Chocolate4",
+          "hierarchy": ["2", "0", "0", "0"],
+          "machine-name": ["location"]
+        },
+        {
+          "href": "",
+          "title": "Text only",
+          "hierarchy": ["3"],
+          "machine-name": ["location"]
+        },
+        {
+          "href": "/en/articles/give-it-a-go-and-grow-your-own-herbs",
+          "title": "Herbs",
+          "hierarchy": ["3", "0"],
+          "machine-name": ["location"]
+        }
+      ]
+    }
+  ]
+}
