@@ -2,12 +2,12 @@
   font-family: Roboto Slab;
   font-style: normal;
   font-weight: 400;
-  src: local("Roboto Slab"), url(./assets/fonts/roboto-slab/roboto-slab-v24-latin-regular.woff2) format("woff2")
+  src: local("Roboto Slab"), url(./dist/assets/fonts/roboto-slab/roboto-slab-v24-latin-regular.woff2) format("woff2")
 }
 
 @font-face {
   font-family: Roboto Flex;
   font-style: normal;
   font-weight: 100 1000;
-  src: url(./assets/fonts/roboto-flex/roboto-flex-wght.woff2) format("woff2")
+  src: url(./dist/assets/fonts/roboto-flex/roboto-flex-wght.woff2) format("woff2")
 }
