@@ -16,7 +16,7 @@
           "machine-name": ["main"]
         },
         {
-          "href": "/find-a-location",
+          "href": "/care/locations",
           "title": "Find a Location",
           "hierarchy": ["0", "1"],
           "machine-name": ["main"]
@@ -76,13 +76,247 @@
           "machine-name": ["main"]
         },
         {
-          "href": "/care/locations/lowell-general-hospital/vendor-information-center",
-          "title": "Vendor Information Center",
+          "href": "/care/locations/lowell-general-hospital/community-benefit-program",
+          "title": "Community Benefit Program",
           "hierarchy": ["0", "1", "1", "0"],
           "machine-name": ["main"]
         },
         {
-          "href": "/care/locations/melrose-wakefield-hospital",
+          "href": "/care/locations/lowell-general-hospital/community-benefit-program/community-engagement-forum",
+          "title": "Community Engagement Forum",
+          "hierarchy": ["0", "1", "1", "0", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/community-benefit-program/join-community-benefit-advisory",
+          "title": "Join the Community Benefit Advisory Committee",
+          "hierarchy": ["0", "1", "1", "0", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/community-engagement-support",
+          "title": "Community Engagement \u0026 Support",
+          "hierarchy": ["0", "1", "1", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/community-support-sponsorship-form",
+          "title": "Community Support Sponsorship Form",
+          "hierarchy": ["0", "1", "1", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/contact-us",
+          "title": "Contact Us",
+          "hierarchy": ["0", "1", "1", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/greater-lowell-community-health-needs-assessment",
+          "title": "Greater Lowell Community Health Needs Assessment",
+          "hierarchy": ["0", "1", "1", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/health-outreach-education",
+          "title": "Health Outreach \u0026 Education",
+          "hierarchy": ["0", "1", "1", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/health-outreach-education/community-health-needs-assessment",
+          "title": "Community Health Needs Assessment",
+          "hierarchy": ["0", "1", "1", "5", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/health-outreach-education/report-community",
+          "title": "Report to the Community",
+          "hierarchy": ["0", "1", "1", "5", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/hospital-auxiliary",
+          "title": "Hospital Auxiliary",
+          "hierarchy": ["0", "1", "1", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/leadership",
+          "title": "Leadership",
+          "hierarchy": ["0", "1", "1", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/lowell-general-hospital-ball-community-health-initiatives",
+          "title": "Lowell General Hospital Ball for Community Health Initiatives",
+          "hierarchy": ["0", "1", "1", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/lowell-general-hospital-ball-community-health-initiatives/2018-recap",
+          "title": "2018 Event Recap",
+          "hierarchy": ["0", "1", "1", "8", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/lowell-general-hospital-ball-community-health-initiatives/2019-recap",
+          "title": "2019 Event Recap",
+          "hierarchy": ["0", "1", "1", "8", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/lowell-general-hospital-pfac",
+          "title": "Lowell General Hospital PFAC",
+          "hierarchy": ["0", "1", "1", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patient-family-advisory-council-pfac-members",
+          "title": "Patient Family Advisory Council (PFAC) Members",
+          "hierarchy": ["0", "1", "1", "10"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patient-service-center-billerica",
+          "title": "Patient Service Center - Billerica",
+          "hierarchy": ["0", "1", "1", "11"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors",
+          "title": "Patients \u0026 Visitors",
+          "hierarchy": ["0", "1", "1", "12"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/admission-process",
+          "title": "Admission Process",
+          "hierarchy": ["0", "1", "1", "12", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/birth-certificate-request",
+          "title": "Birth Certificate Request",
+          "hierarchy": ["0", "1", "1", "12", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/cost-estimate-price-transparency",
+          "title": "Cost Estimate / Price Transparency",
+          "hierarchy": ["0", "1", "1", "12", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/emergency-room-vs-urgent-care-whats",
+          "title": "Emergency Room vs Urgent Care, what\u2019s the difference?",
+          "hierarchy": ["0", "1", "1", "12", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/health-care-proxy-advance-directive",
+          "title": "Health Care Proxy / Advance Directive",
+          "hierarchy": ["0", "1", "1", "12", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/interpreter-services",
+          "title": "Interpreter Services",
+          "hierarchy": ["0", "1", "1", "12", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/medical-record-request",
+          "title": "Medical Record Request",
+          "hierarchy": ["0", "1", "1", "12", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/out-network-providers",
+          "title": "Out-of-Network Providers",
+          "hierarchy": ["0", "1", "1", "12", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/parking",
+          "title": "Parking",
+          "hierarchy": ["0", "1", "1", "12", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/patient-billing",
+          "title": "Patient Billing",
+          "hierarchy": ["0", "1", "1", "12", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/patient-financial-assistance",
+          "title": "Patient Financial Assistance",
+          "hierarchy": ["0", "1", "1", "12", "10"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/patient-information",
+          "title": "Patient Information",
+          "hierarchy": ["0", "1", "1", "12", "11"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/schedule-your-appointment",
+          "title": "Schedule Your Appointment",
+          "hierarchy": ["0", "1", "1", "12", "12"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/support-services-patients",
+          "title": "Support Services for patients",
+          "hierarchy": ["0", "1", "1", "12", "13"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/surprise-billing-protection-notice",
+          "title": "Surprise Billing Protection Notice",
+          "hierarchy": ["0", "1", "1", "12", "14"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/while-you-are-here",
+          "title": "While You Are Here",
+          "hierarchy": ["0", "1", "1", "12", "15"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/patients-visitors/while-you-are-visiting",
+          "title": "While You Are Visiting",
+          "hierarchy": ["0", "1", "1", "12", "16"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/quality-accreditations",
+          "title": "Quality \u0026 Accreditations",
+          "hierarchy": ["0", "1", "1", "13"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/sponsorships",
+          "title": "Sponsorships",
+          "hierarchy": ["0", "1", "1", "14"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/vendor-information-center",
+          "title": "Vendor Information Center",
+          "hierarchy": ["0", "1", "1", "15"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/lowell-general-hospital/volunteers",
+          "title": "Volunteers",
+          "hierarchy": ["0", "1", "1", "16"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/melrosewakefield-hospital",
           "title": "Melrose Wakefield Hospital",
           "hierarchy": ["0", "1", "2"],
           "machine-name": ["main"]
@@ -125,7 +359,7 @@
         },
         {
           "href": "/care/locations/melrose-wakefield-hospital/community-activities-programs",
-          "title": "Community Activities & Programs",
+          "title": "Community Activities \u0026 Programs",
           "hierarchy": ["0", "1", "2", "6"],
           "machine-name": ["main"]
         },
@@ -166,7 +400,7 @@
           "machine-name": ["main"]
         },
         {
-          "href": "/care/locations/melrose-wakefield-hospital/daisy-award-extraordinary-nurses",
+          "href": "/care/locations/melrosewakefield-hospital/daisy-award-extraordinary-nurses",
           "title": "DAISY Award for Extraordinary Nurses",
           "hierarchy": ["0", "1", "2", "13"],
           "machine-name": ["main"]
@@ -184,63 +418,75 @@
           "machine-name": ["main"]
         },
         {
-          "href": "/care/locations/melrose-wakefield-hospital/nurses",
+          "href": "/care/locations/melrosewakefield-hospital/nurses",
           "title": "For Nurses",
           "hierarchy": ["0", "1", "2", "16"],
           "machine-name": ["main"]
         },
         {
-          "href": "/care/locations/melrose-wakefield-hospital/interpreter-services",
-          "title": "Interpreter Services",
+          "href": "/care/locations/melrose-wakefield-hospital/fundraising-events",
+          "title": "Fundraising Events",
           "hierarchy": ["0", "1", "2", "17"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/melrosewakefield-hospital/interpreter-services",
+          "title": "Interpreter Services",
+          "hierarchy": ["0", "1", "2", "18"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/melrose-wakefield-hospital/lawrence-memorial-hospital-campus",
+          "title": "Lawrence Memorial Hospital Campus",
+          "hierarchy": ["0", "1", "2", "19"],
           "machine-name": ["main"]
         },
         {
           "href": "/care/locations/melrose-wakefield-hospital/medical-records",
           "title": "Medical Records",
-          "hierarchy": ["0", "1", "2", "18"],
+          "hierarchy": ["0", "1", "2", "20"],
           "machine-name": ["main"]
         },
         {
           "href": "/care/locations/melrose-wakefield-hospital/mission-vision-values",
           "title": "Mission, Vision, Values",
-          "hierarchy": ["0", "1", "2", "19"],
+          "hierarchy": ["0", "1", "2", "21"],
           "machine-name": ["main"]
         },
         {
-          "href": "/care/locations/melrose-wakefield-hospital/our-nursing-approach",
+          "href": "/care/locations/melrosewakefield-hospital/our-nursing-approach",
           "title": "Our Nursing Approach",
-          "hierarchy": ["0", "1", "2", "20"],
+          "hierarchy": ["0", "1", "2", "22"],
           "machine-name": ["main"]
         },
         {
           "href": "/care/locations/melrose-wakefield-hospital/pastoral-care-chaplaincy-services",
-          "title": "Pastoral Care & Chaplaincy Services",
-          "hierarchy": ["0", "1", "2", "21"],
+          "title": "Pastoral Care \u0026 Chaplaincy Services",
+          "hierarchy": ["0", "1", "2", "23"],
           "machine-name": ["main"]
         },
         {
           "href": "/care/locations/melrose-wakefield-hospital/physician-leadership",
           "title": "Physician Leadership",
-          "hierarchy": ["0", "1", "2", "22"],
+          "hierarchy": ["0", "1", "2", "24"],
           "machine-name": ["main"]
         },
         {
           "href": "/care/locations/melrose-wakefield-hospital/schwartz-center-rounds",
           "title": "Schwartz Center Rounds",
-          "hierarchy": ["0", "1", "2", "23"],
+          "hierarchy": ["0", "1", "2", "25"],
           "machine-name": ["main"]
         },
         {
           "href": "/care/locations/melrose-wakefield-hospital/visitors-guide",
-          "title": "Visitors’ Guide",
-          "hierarchy": ["0", "1", "2", "24"],
+          "title": "Visitors\u2019 Guide",
+          "hierarchy": ["0", "1", "2", "26"],
           "machine-name": ["main"]
         },
         {
           "href": "/care/locations/melrose-wakefield-hospital/volunteer",
           "title": "Volunteer",
-          "hierarchy": ["0", "1", "2", "25"],
+          "hierarchy": ["0", "1", "2", "27"],
           "machine-name": ["main"]
         },
         {
@@ -250,33 +496,315 @@
           "machine-name": ["main"]
         },
         {
+          "href": "/care/locations/tufts-medical-center/path-progress-us-health-care",
+          "title": "A Path for Progress for U.S. Health Care",
+          "hierarchy": ["0", "1", "3", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/campus-buildings-maps",
+          "title": "Campus Buildings + Maps",
+          "hierarchy": ["0", "1", "3", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/community-benefits-and-community-health-initiatives",
+          "title": "Community Benefits and Community Health Initiatives",
+          "hierarchy": ["0", "1", "3", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/community-benefits-and-community-health-initiatives/asian-community",
+          "title": "Asian Community",
+          "hierarchy": ["0", "1", "3", "2", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/community-benefits-and-community-health-initiatives/asian-health-initiative",
+          "title": "Asian Health Initiative",
+          "hierarchy": ["0", "1", "3", "2", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/community-benefits-and-community-health-initiatives/covid-19",
+          "title": "COVID-19 Response Initiative",
+          "hierarchy": ["0", "1", "3", "2", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/community-benefits-and-community-health-initiatives/dorchester",
+          "title": "Dorchester Health Initiative",
+          "hierarchy": ["0", "1", "3", "2", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/frequently-asked-questions",
+          "title": "Frequently Asked Questions",
+          "hierarchy": ["0", "1", "3", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/helpful-phone-numbers",
+          "title": "Helpful Phone Numbers",
+          "hierarchy": ["0", "1", "3", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/history-tufts-medical-center",
+          "title": "History of Tufts Medical Center",
+          "hierarchy": ["0", "1", "3", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/impact-your-support",
+          "title": "Impact of Your Support",
+          "hierarchy": ["0", "1", "3", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/leadership",
+          "title": "Leadership",
+          "hierarchy": ["0", "1", "3", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/lori-driscoll",
+          "title": "Lori Driscoll",
+          "hierarchy": ["0", "1", "3", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/meredith-casey-mighty-meredith-project",
+          "title": "Meredith Casey \u0026 The Mighty Meredith Project",
+          "hierarchy": ["0", "1", "3", "9"],
+          "machine-name": ["main"]
+        },
+        {
           "href": "/care/locations/tufts-medical-center/nursing",
           "title": "Nursing",
-          "hierarchy": ["0", "1", "3", "0"],
+          "hierarchy": ["0", "1", "3", "10"],
           "machine-name": ["main"]
         },
         {
           "href": "/center-of-excellence",
           "title": "Center of Excellence",
-          "hierarchy": ["0", "1", "3", "0", "0"],
+          "hierarchy": ["0", "1", "3", "10", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/nursing/center-of-excellence/about-program",
+          "title": "About the Program",
+          "hierarchy": ["0", "1", "3", "10", "0", "0"],
           "machine-name": ["main"]
         },
         {
           "href": "/care/locations/tufts-medical-center/nursing/center-of-excellence/novice-nurse-program",
           "title": "Novice Nurse Program",
-          "hierarchy": ["0", "1", "3", "0", "0", "0"],
+          "hierarchy": ["0", "1", "3", "10", "0", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/nursing/center-of-excellence/nursing-professional-development",
+          "title": "Nursing Professional Development",
+          "hierarchy": ["0", "1", "3", "10", "0", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/nursing/center-of-excellence/nursing-professional-practice-model",
+          "title": "Nursing Professional Practice Model",
+          "hierarchy": ["0", "1", "3", "10", "0", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/nursing/center-of-excellence/periop-rn-training-program",
+          "title": "Periop RN Training Program",
+          "hierarchy": ["0", "1", "3", "10", "0", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/nursing/center-of-excellence/professional-governance",
+          "title": "Professional Governance",
+          "hierarchy": ["0", "1", "3", "10", "0", "5"],
           "machine-name": ["main"]
         },
         {
           "href": "/care/locations/tufts-medical-center/nursing/nursing-excellence-awards",
           "title": "Nursing Excellence Awards",
-          "hierarchy": ["0", "1", "3", "0", "1"],
+          "hierarchy": ["0", "1", "3", "10", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/nursing/nursing-excellence-awards/daisy-award-nomination",
+          "title": "Daisy Award Nomination",
+          "hierarchy": ["0", "1", "3", "10", "1", "0"],
           "machine-name": ["main"]
         },
         {
           "href": "/care/locations/tufts-medical-center/nursing/robin-and-david-jaye-center-nursing-excellence",
           "title": "The Robin and David Jaye Center for Nursing Excellence",
-          "hierarchy": ["0", "1", "3", "0", "2"],
+          "hierarchy": ["0", "1", "3", "10", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/parking",
+          "title": "Parking",
+          "hierarchy": ["0", "1", "3", "11"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/patient-care-services",
+          "title": "Patient Care Services",
+          "hierarchy": ["0", "1", "3", "12"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/patient-care-services/area-accommodations",
+          "title": "Area Accommodations",
+          "hierarchy": ["0", "1", "3", "12", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/patient-care-services/getting-around-hospital",
+          "title": "Getting Around the Hospital",
+          "hierarchy": ["0", "1", "3", "12", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/patient-care-services/going-home",
+          "title": "Going Home",
+          "hierarchy": ["0", "1", "3", "12", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/patient-care-services/international-patients",
+          "title": "International Patients",
+          "hierarchy": ["0", "1", "3", "12", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/patient-care-services/places-eat-within-tufts-mc",
+          "title": "Places to eat within Tufts MC",
+          "hierarchy": ["0", "1", "3", "12", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/patient-care-services/registration-admitting",
+          "title": "Registration + Admitting",
+          "hierarchy": ["0", "1", "3", "12", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/patient-care-services/safety-security",
+          "title": "Safety + Security",
+          "hierarchy": ["0", "1", "3", "12", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/patient-care-services/visitor-resources",
+          "title": "Visitor Resources",
+          "hierarchy": ["0", "1", "3", "12", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/patient-care-services/what-bring-you",
+          "title": "What to Bring With You",
+          "hierarchy": ["0", "1", "3", "12", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/patient-care-services/your-hospital-stay",
+          "title": "Your Hospital Stay",
+          "hierarchy": ["0", "1", "3", "12", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/patient-care-services/your-room-unit",
+          "title": "Your Room + Unit",
+          "hierarchy": ["0", "1", "3", "12", "10"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/quality-safety",
+          "title": "Quality + Safety",
+          "hierarchy": ["0", "1", "3", "13"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/quality-safety/catheter-associated-urinary-tract-infection-ca",
+          "title": "Catheter Associated Urinary Tract Infection (CA-UTI)",
+          "hierarchy": ["0", "1", "3", "13", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/quality-safety/central-line-associated-bloodstream-infection",
+          "title": "Central Line Associated Bloodstream Infection (CLABSI)",
+          "hierarchy": ["0", "1", "3", "13", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/quality-safety/fall-prevention",
+          "title": "Fall Prevention",
+          "hierarchy": ["0", "1", "3", "13", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/quality-safety/icu-nurse-patient-ratios",
+          "title": "ICU Nurse-to-Patient Ratios",
+          "hierarchy": ["0", "1", "3", "13", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/quality-safety/influenza-prevention",
+          "title": "Influenza Prevention",
+          "hierarchy": ["0", "1", "3", "13", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/quality-safety/medication-safety",
+          "title": "Medication Safety",
+          "hierarchy": ["0", "1", "3", "13", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/quality-safety/opioid-guidelines",
+          "title": "Opioid Guidelines",
+          "hierarchy": ["0", "1", "3", "13", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/quality-safety/preventing-infections",
+          "title": "Preventing Infections",
+          "hierarchy": ["0", "1", "3", "13", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/quality-safety/providing-patient-centered-care",
+          "title": "Providing Patient Centered Care",
+          "hierarchy": ["0", "1", "3", "13", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/quality-safety/supplier-information-center",
+          "title": "Supplier information center",
+          "hierarchy": ["0", "1", "3", "13", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/quality-safety/surgical-safety",
+          "title": "Surgical Safety",
+          "hierarchy": ["0", "1", "3", "13", "10"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/women-medicine-and-science-wims-committee",
+          "title": "Women in Medicine and Science (WiMS) Committee",
+          "hierarchy": ["0", "1", "3", "14"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/care/locations/tufts-medical-center/women-medicine-and-science-wims-committee/events-opportunities",
+          "title": "Events and Opportunities",
+          "hierarchy": ["0", "1", "3", "14", "0"],
           "machine-name": ["main"]
         },
         {
@@ -322,37 +850,31 @@
           "machine-name": ["main"]
         },
         {
-          "href": "/find-a-doctor",
-          "title": "Find a Doctor",
-          "hierarchy": ["0", "2"],
-          "machine-name": ["main"]
-        },
-        {
           "href": "/request-an-appointment",
           "title": "Request an Appointment",
-          "hierarchy": ["0", "3"],
+          "hierarchy": ["0", "2"],
           "machine-name": ["main"]
         },
         {
           "href": "/insurance",
           "title": "Insurance",
-          "hierarchy": ["0", "4"],
+          "hierarchy": ["0", "3"],
           "machine-name": ["main"]
         },
         {
-          "href": "/cost-estimates",
+          "href": "/cost-estimate",
           "title": "Cost Estimates",
-          "hierarchy": ["0", "5"],
+          "hierarchy": ["0", "4"],
           "machine-name": ["main"]
         },
         {
           "href": "/services-treatments",
           "title": "Services + Treatments",
-          "hierarchy": ["0", "6"],
+          "hierarchy": ["0", "5"],
           "machine-name": ["main"]
         },
         {
-          "href": "/our-services",
+          "href": "/services-treatments/services-treatments",
           "title": "Our Services",
           "hierarchy": ["1"],
           "machine-name": ["main"]
@@ -364,164 +886,3122 @@
           "machine-name": ["main"]
         },
         {
-          "href": "/orthopedics-sports-medicine",
-          "title": "Orthopedics+ Sports Medicine",
-          "hierarchy": ["1", "1"],
-          "machine-name": ["main"]
-        },
-        {
           "href": "/gastrointestinal-digestive-health",
           "title": "Gastrointestinal + Digestive Health",
-          "hierarchy": ["1", "2"],
+          "hierarchy": ["1", "0", "0"],
           "machine-name": ["main"]
         },
         {
           "href": "/primary-care",
           "title": "Primary Care",
-          "hierarchy": ["1", "3"],
+          "hierarchy": ["1", "0", "1"],
           "machine-name": ["main"]
         },
         {
           "href": "/maternity-care",
           "title": "Maternity Care",
-          "hierarchy": ["1", "4"],
+          "hierarchy": ["1", "0", "2"],
           "machine-name": ["main"]
         },
         {
           "href": "/surgery",
           "title": "Surgery",
-          "hierarchy": ["1", "5"],
+          "hierarchy": ["1", "0", "3"],
           "machine-name": ["main"]
         },
         {
           "href": "",
           "title": "Other Areas of Care",
-          "hierarchy": ["1", "6"],
+          "hierarchy": ["1", "1"],
           "machine-name": ["main"]
         },
         {
           "href": "/emergency-medicine",
           "title": "Emergency Medicine",
-          "hierarchy": ["1", "7"],
+          "hierarchy": ["1", "1", "0"],
           "machine-name": ["main"]
         },
         {
           "href": "/urgent-care",
           "title": "Urgent Care",
-          "hierarchy": ["1", "8"],
+          "hierarchy": ["1", "1", "1"],
           "machine-name": ["main"]
         },
         {
           "href": "/home-care",
           "title": "Home Care",
-          "hierarchy": ["1", "9"],
+          "hierarchy": ["1", "1", "2"],
           "machine-name": ["main"]
         },
         {
           "href": "/hospice-palliative-care",
           "title": "Hospice + Palliative Care",
-          "hierarchy": ["1", "10"],
+          "hierarchy": ["1", "1", "3"],
           "machine-name": ["main"]
         },
         {
           "href": "/preventative-care",
           "title": "Preventative Care",
-          "hierarchy": ["1", "11"],
+          "hierarchy": ["1", "1", "4"],
           "machine-name": ["main"]
         },
         {
-          "href": "/all-services-treatments",
+          "href": "/services-treatments/services-treatments",
           "title": "All services + treatments",
-          "hierarchy": ["1", "12"],
+          "hierarchy": ["1", "2"],
           "machine-name": ["main"]
         },
         {
-          "href": "/research",
+          "href": "/services-treatments/audiology",
+          "title": "Audiology",
+          "hierarchy": ["1", "2", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/our-services/audiology/auditory-processing-evaluation",
+          "title": "Auditory Processing Evaluation",
+          "hierarchy": ["1", "2", "0", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/audiology/hearing-loss-amplification",
+          "title": "Hearing Loss + Amplification",
+          "hierarchy": ["1", "2", "0", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/audiology/implantable-hearing-device",
+          "title": "Implantable Hearing Device",
+          "hierarchy": ["1", "2", "0", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/audiology/ototoxicity-monitoring",
+          "title": "Ototoxicity Monitoring",
+          "hierarchy": ["1", "2", "0", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/services-treatments/cancer",
+          "title": "Cancer",
+          "hierarchy": ["1", "2", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/cancer/skin-cancer",
+          "title": "Skin Cancer",
+          "hierarchy": ["1", "2", "1", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/cancer/breast-cancer",
+          "title": "Breast Cancer",
+          "hierarchy": ["1", "2", "1", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/cancer/cancer-screening",
+          "title": "Cancer Screening",
+          "hierarchy": ["1", "2", "1", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/cancer/esophageal-cancer",
+          "title": "Esophageal Cancer",
+          "hierarchy": ["1", "2", "1", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/cancer/hematologic-cancers",
+          "title": "Hematologic Cancers",
+          "hierarchy": ["1", "2", "1", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/cancer/radiation-oncology",
+          "title": "Radiation Oncology",
+          "hierarchy": ["1", "2", "1", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/orthopedics",
+          "title": "Orthopedics",
+          "hierarchy": ["1", "2", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/thoracic-surgery/gerd-heartburn-esophageal-motility-program",
+          "title": "GERD, Heartburn + Esophageal Motility Program",
+          "hierarchy": ["1", "2", "2", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/rehabilitation-medicine/occupational-therapy",
+          "title": "Occupational Therapy",
+          "hierarchy": ["1", "2", "2", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/rheumatology/pediatricadult-transitional-clinic",
+          "title": "Pediatric/Adult Transitional Clinic",
+          "hierarchy": ["1", "2", "2", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/rehabilitation-medicine/speech-language-therapy",
+          "title": "Speech + Speech Language Therapy",
+          "hierarchy": ["1", "2", "2", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/radiology-imaging/ultrasound",
+          "title": "Ultrasound",
+          "hierarchy": ["1", "2", "2", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/services-treatments/allergy",
+          "title": "Allergy",
+          "hierarchy": ["1", "2", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/allergy/asthma",
+          "title": "Asthma",
+          "hierarchy": ["1", "2", "3", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/allergy/eczema",
+          "title": "Eczema",
+          "hierarchy": ["1", "2", "3", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/behavioral-health-psychiatry/psychiatry-involving-inflammation",
+          "title": "Psychiatry Involving Inflammation",
+          "hierarchy": ["1", "2", "3", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/allergy/dust-mite-allergies",
+          "title": "Dust Mite Allergies",
+          "hierarchy": ["1", "2", "3", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/allergy/exercise-induced-asthma",
+          "title": "Exercise-Induced Asthma",
+          "hierarchy": ["1", "2", "3", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/allergy/food-allergies",
+          "title": "Food Allergies",
+          "hierarchy": ["1", "2", "3", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/allergy/hives",
+          "title": "Hives",
+          "hierarchy": ["1", "2", "3", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/allergy/insect-bites-stings",
+          "title": "Insect Bites + Stings",
+          "hierarchy": ["1", "2", "3", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/allergy/seasonal-allergies",
+          "title": "Seasonal Allergies",
+          "hierarchy": ["1", "2", "3", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/allergy/skin-testing",
+          "title": "Skin Testing",
+          "hierarchy": ["1", "2", "3", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/blood-disorders-hematology",
+          "title": "Blood Disorders + Hematology",
+          "hierarchy": ["1", "2", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/ear-nose-throat-ent-head-neck-surgery",
+          "title": "Ear, Nose + Throat (ENT), Head + Neck Surgery",
+          "hierarchy": ["1", "2", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/gastroenterology-digestive-health/colonoscopy-colorectal-screening",
+          "title": "Colonoscopy + Colorectal Screening",
+          "hierarchy": ["1", "2", "5", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/endocrinology-diabetes-metabolism",
+          "title": "Endocrinology, Diabetes + Metabolism",
+          "hierarchy": ["1", "2", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/endocrinology-diabetes-metabolism/thyroid-disease",
+          "title": "Thyroid Disease",
+          "hierarchy": ["1", "2", "6", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/our-services/surgical-care-unit",
+          "title": "Surgical  Care Unit",
+          "hierarchy": ["1", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education",
+          "title": "Training + Education",
+          "hierarchy": ["1", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/academic-affiliations",
+          "title": "Academic Affiliations",
+          "hierarchy": ["1", "4", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/gme-applicants",
+          "title": "For GME Applicants",
+          "hierarchy": ["1", "4", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/medical-student-electives",
+          "title": "For Medical Electives",
+          "hierarchy": ["1", "4", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/rotators",
+          "title": "For Rotators",
+          "hierarchy": ["1", "4", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/graduate-medical-education-office",
+          "title": "Graduate Medical Education Office",
+          "hierarchy": ["1", "4", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/hospice-philosophy-goals-care",
+          "title": "Hospice Philosophy and Goals of Care",
+          "hierarchy": ["1", "4", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/medical-libraries-resources",
+          "title": "Medical Libraries and Resources",
+          "hierarchy": ["1", "4", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/meet-our-residents-fellows",
+          "title": "Meet Our Residents and Fellows",
+          "hierarchy": ["1", "4", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs",
+          "title": "Training Programs",
+          "hierarchy": ["1", "4", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/administrative-fellowship",
+          "title": "Administrative Fellowship",
+          "hierarchy": ["1", "4", "9", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program",
+          "title": "Internal Medicine Residency Program",
+          "hierarchy": ["1", "4", "9", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/welcome-from-program-director",
+          "title": "Welcome From the Program Director",
+          "hierarchy": ["1", "4", "9", "1", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/tufts-mc-department-of-medicine",
+          "title": "Tufts MC Department of Medicine",
+          "hierarchy": ["1", "4", "9", "1", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program-clinical-structure",
+          "title": "Clinical Structure of the Department",
+          "hierarchy": ["1", "4", "9", "1", "1", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/who-we-are",
+          "title": "Who We Are",
+          "hierarchy": ["1", "4", "9", "1", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/who-we-are/departamental-leadership",
+          "title": "Departmental Leadership",
+          "hierarchy": ["1", "4", "9", "1", "2", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/who-we-are/residency-leadership",
+          "title": "Residency Program Leadership",
+          "hierarchy": ["1", "4", "9", "1", "2", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/who-we-are/chief-residents",
+          "title": "Chief Residents",
+          "hierarchy": ["1", "4", "9", "1", "2", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/who-we-are/our-residents",
+          "title": "Our Residents",
+          "hierarchy": ["1", "4", "9", "1", "2", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/training-program",
+          "title": "Training Program",
+          "hierarchy": ["1", "4", "9", "1", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/training-program/overall-structure",
+          "title": "Overall Structure",
+          "hierarchy": ["1", "4", "9", "1", "3", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/training-program/a-day-in-the-life",
+          "title": "A Day in the Life",
+          "hierarchy": ["1", "4", "9", "1", "3", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/training-program/ambulatory-training",
+          "title": "Ambulatory Training",
+          "hierarchy": ["1", "4", "9", "1", "3", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/training-program/pocus-simulation",
+          "title": "POCUS + Simulation",
+          "hierarchy": ["1", "4", "9", "1", "3", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/training-program/program-tracks-leadership",
+          "title": "Program Tracks + Leadership",
+          "hierarchy": ["1", "4", "9", "1", "3", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/training-program/salary-benefits",
+          "title": "Salary + Benefits",
+          "hierarchy": ["1", "4", "9", "1", "3", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/training-program/graduate-medical-education-at-tufts-mc",
+          "title": "Graduate Medical Education at Tufts Medical Center",
+          "hierarchy": ["1", "4", "9", "1", "3", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/patient-care-services/Departments-and-Services/Medicine/Training-Education/Internal-Medicine-Residency-Program/dei",
+          "title": "Diversity, Equity + Inclusion",
+          "hierarchy": ["1", "4", "9", "1", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/life-wellness-boston",
+          "title": "Life + Wellness in Boston",
+          "hierarchy": ["1", "4", "9", "1", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/research",
+          "title": "Research and Scholarly Work",
+          "hierarchy": ["1", "4", "9", "1", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/scholarly-work",
+          "title": "Recent Resident Scholarly Work",
+          "hierarchy": ["1", "4", "9", "1", "6", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/tufts-mc-research-in-the-news",
+          "title": "Tufts MC Research in the News",
+          "hierarchy": ["1", "4", "9", "1", "6", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/job-placement",
+          "title": "Fellowship + Job Placements",
+          "hierarchy": ["1", "4", "9", "1", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/internal-medicine-residency-program/how-to-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "9", "1", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/adult-cardiac-anesthesiology-fellowship",
+          "title": "Adult Cardiac Anesthesiology Fellowship Program",
+          "hierarchy": ["1", "4", "9", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/advanced-heart-failure-transplant",
+          "title": "Advanced Heart Failure and Transplant Cardiology Fellowship",
+          "hierarchy": ["1", "4", "9", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/anesthesiology-critical-care-medicine",
+          "title": "Anesthesiology Critical Care Medicine Fellowship",
+          "hierarchy": ["1", "4", "9", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/anesthesiology-residency-program",
+          "title": "Anesthesiology Residency Program",
+          "hierarchy": ["1", "4", "9", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/anesthesiology-residency-program-curriculum",
+          "title": "Curriculum",
+          "hierarchy": ["1", "4", "9", "5", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/anesthesiology-residency-program-rotations",
+          "title": "Clinical Subspecialty Rotations",
+          "hierarchy": ["1", "4", "9", "5", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/anesthesiology-residency-program-residents",
+          "title": "Current Residents",
+          "hierarchy": ["1", "4", "9", "5", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/anesthesiology-residency-program-alumni",
+          "title": "Alumni",
+          "hierarchy": ["1", "4", "9", "5", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/anesthesiology-residency-program-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "9", "5", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/cardiovascular-disease-fellowship",
+          "title": "Cardiovascular Disease Fellowship Training Program",
+          "hierarchy": ["1", "4", "9", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/cardiothoracic-surgery-residency-program",
+          "title": "Cardiothoracic Surgery Residency Program",
+          "hierarchy": ["1", "4", "9", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/child-adolescent-psychiatry-training",
+          "title": "Child + Adolescent Psychiatry Training",
+          "hierarchy": ["1", "4", "9", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/child-adolescent-psychiatry-training/didactics-conferences",
+          "title": "Didactics + Conferences",
+          "hierarchy": ["1", "4", "9", "8", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/child-adolescent-psychiatry-training/rotations-program-affiliations",
+          "title": "Rotations + Program Affiliations",
+          "hierarchy": ["1", "4", "9", "8", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/child-adolescent-psychiatry-training/life-as-a-fellow",
+          "title": "Life As A Fellow",
+          "hierarchy": ["1", "4", "9", "8", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/child-adolescent-psychiatry-training/more-about-boston",
+          "title": "More About Boston",
+          "hierarchy": ["1", "4", "9", "8", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/child-adolescent-psychiatry-training/current-fellows",
+          "title": "Current Fellows",
+          "hierarchy": ["1", "4", "9", "8", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/child-adolescent-psychiatry-training/alumni",
+          "title": "Alumni",
+          "hierarchy": ["1", "4", "9", "8", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/child-adolescent-psychiatry-training/how-to-apply",
+          "title": "How To Apply",
+          "hierarchy": ["1", "4", "9", "8", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/clinical-decision-making-fellowship",
+          "title": "Clinical Decision Making Fellowship",
+          "hierarchy": ["1", "4", "9", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/clinical-decision-making-fellowship/alumni",
+          "title": "Alumni",
+          "hierarchy": ["1", "4", "9", "9", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/clinical-nutrition-training-program",
+          "title": "Clinical Nutrition Training Program",
+          "hierarchy": ["1", "4", "9", "10"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/critical-care-medicine-fellowship",
+          "title": "Critical Care Medicine Fellowship",
+          "hierarchy": ["1", "4", "9", "11"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/dermatology-residency-program",
+          "title": "Dermatology Residency Program",
+          "hierarchy": ["1", "4", "9", "12"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/dermatology-residency-program-clinical-opportunities",
+          "title": "Clinical Opportunities",
+          "hierarchy": ["1", "4", "9", "12", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/dermatology-residency-program-residents",
+          "title": "Current Residents",
+          "hierarchy": ["1", "4", "9", "12", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/dermatology-residency-program-didactics-conferences",
+          "title": "Didactics, Conferences + Lectures",
+          "hierarchy": ["1", "4", "9", "12", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/dermatology-residency-program-faculty",
+          "title": "Faculty",
+          "hierarchy": ["1", "4", "9", "12", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/dermatology-residency-program-graduates",
+          "title": "Recent Graduates",
+          "hierarchy": ["1", "4", "9", "12", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/dermatology-residency-program-history",
+          "title": "History",
+          "hierarchy": ["1", "4", "9", "12", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/dermatology-residency-program-how-to-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "9", "12", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/developmental-behavioral-pediatrics",
+          "title": "Developmental Behavioral Pediatrics",
+          "hierarchy": ["1", "4", "9", "13"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/diagnostic-radiology-residency-program",
+          "title": "Diagnostic Radiology Residency Program",
+          "hierarchy": ["1", "4", "9", "14"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/diagnostic-radiology-residency-program/curriculum",
+          "title": "Curriculum",
+          "hierarchy": ["1", "4", "9", "14", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/diagnostic-radiology-residency-program/clinical-sites",
+          "title": "Clinical Sites",
+          "hierarchy": ["1", "4", "9", "14", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/diagnostic-radiology-residency-program/global-health",
+          "title": "Global Health",
+          "hierarchy": ["1", "4", "9", "14", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/diagnostic-radiology-residency-program/current-residents",
+          "title": "Current Residents",
+          "hierarchy": ["1", "4", "9", "14", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/diagnostic-radiology-residency-program/recent-alumni",
+          "title": "Recent Alumni",
+          "hierarchy": ["1", "4", "9", "14", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/diagnostic-radiology-residency-program-0",
+          "title": "Faculty",
+          "hierarchy": ["1", "4", "9", "14", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/diagnostic-radiology-residency-program/benefits",
+          "title": "Benefits",
+          "hierarchy": ["1", "4", "9", "14", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/diagnostic-radiology-residency-program/applicants",
+          "title": "Applicants",
+          "hierarchy": ["1", "4", "9", "14", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/otolaryngology-head-neck-surgery",
+          "title": "Otolaryngology \u2013 Head + Neck Surgery Residency Program",
+          "hierarchy": ["1", "4", "9", "15"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/electrophysiology-fellowship",
+          "title": "Electrophysiology Fellowship",
+          "hierarchy": ["1", "4", "9", "16"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/endocrinology-fellowship-program",
+          "title": "Endocrinology Fellowship Program",
+          "hierarchy": ["1", "4", "9", "17"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/endocrinology-fellowship-program/friedman-fellowship",
+          "title": "Friedman Fellowship",
+          "hierarchy": ["1", "4", "9", "17", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/endocrinology-fellowship-program/current-fellows",
+          "title": "Current Fellows",
+          "hierarchy": ["1", "4", "9", "17", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/endocrinology-fellowship-program/fellow-responsiblities-first-year",
+          "title": "Fellow Responsibilities First Year",
+          "hierarchy": ["1", "4", "9", "17", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/endocrinology-fellowship-program/fellow-responsibilities-second-year",
+          "title": "Fellow Responsibilities Second Year",
+          "hierarchy": ["1", "4", "9", "17", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/endocrinology-fellowship-program/clinical-opportunities",
+          "title": "Clinical Opportunities",
+          "hierarchy": ["1", "4", "9", "17", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/endocrinology-fellowship-program/research-opportunities",
+          "title": "Research Opportunities",
+          "hierarchy": ["1", "4", "9", "17", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/endocrinology-fellowship-program/teaching-opportunities",
+          "title": "Teaching Opportunities",
+          "hierarchy": ["1", "4", "9", "17", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/endocrinology-fellowship-program/conferences-lectures",
+          "title": "Conferences + Lectures",
+          "hierarchy": ["1", "4", "9", "17", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/endocrinology-fellowship-program/endocrinology-grand-rounds",
+          "title": "Endocrinology Grand Rounds",
+          "hierarchy": ["1", "4", "9", "17", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/endocrinology-fellowship-program/faculty",
+          "title": "Faculty",
+          "hierarchy": ["1", "4", "9", "17", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/endocrinology-fellowship-program/how-to-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "9", "17", "10"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/gastroenterology-fellowship-program",
+          "title": "Gastroenterology Fellowship Program",
+          "hierarchy": ["1", "4", "9", "18"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/general-surgery-residency",
+          "title": "General Surgery Residency",
+          "hierarchy": ["1", "4", "9", "19"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/general-surgery-residency/overview",
+          "title": "Overview",
+          "hierarchy": ["1", "4", "9", "19", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/general-surgery-residency/academic-mission",
+          "title": "Academic Mission",
+          "hierarchy": ["1", "4", "9", "19", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/general-surgery-residency/message-from-the-program-leadership",
+          "title": "Message from the Program Leadership",
+          "hierarchy": ["1", "4", "9", "19", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/general-surgery-residency/conference-lectures",
+          "title": "Conferences + Lectures",
+          "hierarchy": ["1", "4", "9", "19", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/general-surgery-residency/rotations",
+          "title": "Rotations",
+          "hierarchy": ["1", "4", "9", "19", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/general-surgery-residency/program-affiliations",
+          "title": "Program Affiliations",
+          "hierarchy": ["1", "4", "9", "19", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/general-surgery-residency/life-as-a-resident",
+          "title": "Life as a Resident",
+          "hierarchy": ["1", "4", "9", "19", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/general-surgery-residency/how-to-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "9", "19", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/general-surgery-residency/current-surgery-residents",
+          "title": "Current Surgery Residents",
+          "hierarchy": ["1", "4", "9", "19", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/general-surgery-residency/our-alumni",
+          "title": "Our Alumni",
+          "hierarchy": ["1", "4", "9", "19", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/general-surgery-residency/our-alumni/testimonials",
+          "title": "Testimonials",
+          "hierarchy": ["1", "4", "9", "19", "9", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/graduate-rn-residency-program",
+          "title": "Graduate RN Residency Program",
+          "hierarchy": ["1", "4", "9", "20"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/hematology-oncology-fellowship-program",
+          "title": "Hematology + Oncology Fellowship Program",
+          "hierarchy": ["1", "4", "9", "21"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/hematology-oncology-fellowship-program-leadership",
+          "title": "Program Leadership",
+          "hierarchy": ["1", "4", "9", "21", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/hematology-oncology-fellowship-program-mission",
+          "title": "Mission + Goals",
+          "hierarchy": ["1", "4", "9", "21", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/hematology-oncology-fellowship-program-research",
+          "title": "Research Opportunities",
+          "hierarchy": ["1", "4", "9", "21", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/hematology-oncology-fellowship-program-training",
+          "title": "Training Record",
+          "hierarchy": ["1", "4", "9", "21", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/hematology-oncology-fellowship-program-faculty",
+          "title": "Faculty",
+          "hierarchy": ["1", "4", "9", "21", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/hematology-oncology-fellowship-program-history",
+          "title": "History",
+          "hierarchy": ["1", "4", "9", "21", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/hematology-oncology-fellowship-program-resources",
+          "title": "Resources for Fellows",
+          "hierarchy": ["1", "4", "9", "21", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/hematology-oncology-fellowship-program-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "9", "21", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/hematopathology-fellowship",
+          "title": "Hematopathology Fellowship",
+          "hierarchy": ["1", "4", "9", "22"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/hospice-palliative-medicine-hpm",
+          "title": "Hospice and Palliative Medicine (HPM) Fellowship",
+          "hierarchy": ["1", "4", "9", "23"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship",
+          "title": "Infectious Diseases Fellowship",
+          "hierarchy": ["1", "4", "9", "24"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/awards",
+          "title": "Awards",
+          "hierarchy": ["1", "4", "9", "24", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/clinical-training",
+          "title": "Clinical Training",
+          "hierarchy": ["1", "4", "9", "24", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/clinical-training/hiv-concentration",
+          "title": "HIV Concentration",
+          "hierarchy": ["1", "4", "9", "24", "1", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/clinical-training/transplant-infectious-diseases-concentration",
+          "title": "Transplant Infectious Diseases Concentration",
+          "hierarchy": ["1", "4", "9", "24", "1", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/clinical-training/antimicrobial-stewardship-concentration",
+          "title": "Antimicrobial Stewardship Concentration",
+          "hierarchy": ["1", "4", "9", "24", "1", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/clinical-training/infection-prevention-concentration",
+          "title": "Infection Prevention Concentration",
+          "hierarchy": ["1", "4", "9", "24", "1", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/clinical-training/wound-care-hbo",
+          "title": "Wound Care / Hyperbaric Oxygen Concentration",
+          "hierarchy": ["1", "4", "9", "24", "1", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/clinical-training/clinical-educator-concentration",
+          "title": "Clinical Educator Concentration",
+          "hierarchy": ["1", "4", "9", "24", "1", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/research-training",
+          "title": "Research Training",
+          "hierarchy": ["1", "4", "9", "24", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/mentorship-program",
+          "title": "Mentorship Program",
+          "hierarchy": ["1", "4", "9", "24", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/training-success",
+          "title": "Training Success",
+          "hierarchy": ["1", "4", "9", "24", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/faculty",
+          "title": "Faculty",
+          "hierarchy": ["1", "4", "9", "24", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/current-fellows",
+          "title": "Current Fellows",
+          "hierarchy": ["1", "4", "9", "24", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/alumni",
+          "title": "Alumni",
+          "hierarchy": ["1", "4", "9", "24", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/how-to-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "9", "24", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/tally-fellowship",
+          "title": "Tally Fellowship",
+          "hierarchy": ["1", "4", "9", "24", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/infectious-diseases-fellowship/louis-weinstein-lecture",
+          "title": "Louis Weinstein Lecture",
+          "hierarchy": ["1", "4", "9", "24", "10"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/interventional-cardiology-fellowship",
+          "title": "Interventional Cardiology Fellowship",
+          "hierarchy": ["1", "4", "9", "25"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/magnetic-resonance-imaging-fellowship",
+          "title": "Magnetic Resonance Imaging Fellowship",
+          "hierarchy": ["1", "4", "9", "26"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/masters-program-clinical-research",
+          "title": "Master\u2019s Program in Clinical Research/Doctorate Program",
+          "hierarchy": ["1", "4", "9", "27"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/maternal-fetal-medicine-fellowship",
+          "title": "Maternal-Fetal Medicine Fellowship Program",
+          "hierarchy": ["1", "4", "9", "28"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/maternal-fetal-medicine-fellowship/clinical-opportunities",
+          "title": "Clinical Opportunities",
+          "hierarchy": ["1", "4", "9", "28", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/maternal-fetal-medicine-fellowship/education",
+          "title": "Education",
+          "hierarchy": ["1", "4", "9", "28", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/maternal-fetal-medicine-fellowship/research",
+          "title": "Research",
+          "hierarchy": ["1", "4", "9", "28", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/maternal-fetal-medicine-fellowship/faculty-care-team",
+          "title": "Faculty + Care Team",
+          "hierarchy": ["1", "4", "9", "28", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/maternal-fetal-medicine-fellowship/our-fellows",
+          "title": "Our Fellows",
+          "hierarchy": ["1", "4", "9", "28", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/maternal-fetal-medicine-fellowship/our-alumni",
+          "title": "Our Alumni",
+          "hierarchy": ["1", "4", "9", "28", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/maternal-fetal-medicine-fellowship/how-to-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "9", "28", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/nephrology-fellowship-training-program",
+          "title": "Nephrology Fellowship Training Program",
+          "hierarchy": ["1", "4", "9", "29"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/nephrology-fellowship-training-program/clinical-track",
+          "title": "Clinical Track",
+          "hierarchy": ["1", "4", "9", "29", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/nephrology-fellowship-training-program-inpatient-outpatient",
+          "title": "Inpatient + Outpatient Experiences",
+          "hierarchy": ["1", "4", "9", "29", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/nephrology-fellowship-training-program-clinical-research",
+          "title": "Clinical-Research Track",
+          "hierarchy": ["1", "4", "9", "29", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/nephrology-fellowship-training-program-education-didactics",
+          "title": "Education + Didactics",
+          "hierarchy": ["1", "4", "9", "29", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/nephrology-fellowship-training-program-pathways",
+          "title": "Nephrology Pathways",
+          "hierarchy": ["1", "4", "9", "29", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/nephrology-fellowship-training-program-fellows",
+          "title": "Current Fellows",
+          "hierarchy": ["1", "4", "9", "29", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/nephrology-fellowship-training-program-wellness",
+          "title": "Wellness + Work Life Balance",
+          "hierarchy": ["1", "4", "9", "29", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/nephrology-fellowship-training-program-alumni",
+          "title": "Alumni",
+          "hierarchy": ["1", "4", "9", "29", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/nephrology-fellowship-training-program-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "9", "29", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "https://gsbs.tufts.edu/academics/phd-programs/clinical-translational-science",
+          "title": "Master\u0027s Degree in Clinical + Translational Sciences",
+          "hierarchy": ["1", "4", "9", "29", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/neuro-critical-care-fellowship",
+          "title": "Neuro-Critical Care Fellowship",
+          "hierarchy": ["1", "4", "9", "30"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/neurology-residency-program",
+          "title": "Neurology Residency Program",
+          "hierarchy": ["1", "4", "9", "31"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/neurosurgery-medical-student-clerkship",
+          "title": "Neurosurgery Medical Student Clerkship",
+          "hierarchy": ["1", "4", "9", "32"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/neurosurgery-residency-program",
+          "title": "Neurosurgery Residency Program",
+          "hierarchy": ["1", "4", "9", "33"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/newborn-medicine-fellowship-program",
+          "title": "Newborn Medicine Fellowship Program",
+          "hierarchy": ["1", "4", "9", "34"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program",
+          "title": "Obstetrics + Gynecology Residency Program",
+          "hierarchy": ["1", "4", "9", "35"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/our-residents",
+          "title": "Our Residents",
+          "hierarchy": ["1", "4", "9", "35", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/why-tufts-mc",
+          "title": "Why Tufts MC",
+          "hierarchy": ["1", "4", "9", "35", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/why-tufts-mc/wellness",
+          "title": "Wellness",
+          "hierarchy": ["1", "4", "9", "35", "1", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/why-tufts-mc/research",
+          "title": "Research",
+          "hierarchy": ["1", "4", "9", "35", "1", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/why-tufts-mc/advocacy",
+          "title": "Advocacy",
+          "hierarchy": ["1", "4", "9", "35", "1", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/why-tufts-mc/diversity",
+          "title": "Diversity",
+          "hierarchy": ["1", "4", "9", "35", "1", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/training-program",
+          "title": "Training Program",
+          "hierarchy": ["1", "4", "9", "35", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/training-program/clinical-opportunities",
+          "title": "Clinical Opportunities",
+          "hierarchy": ["1", "4", "9", "35", "2", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/training-program/hospital-affiliations",
+          "title": "Hospital Affiliations",
+          "hierarchy": ["1", "4", "9", "35", "2", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/training-program/rotations",
+          "title": "Rotations",
+          "hierarchy": ["1", "4", "9", "35", "2", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/training-program/conference-lectures",
+          "title": "Conference Lectures",
+          "hierarchy": ["1", "4", "9", "35", "2", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/training-program/benefits",
+          "title": "Benefits",
+          "hierarchy": ["1", "4", "9", "35", "2", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/our-alumni",
+          "title": "Our Alumni",
+          "hierarchy": ["1", "4", "9", "35", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/obstetrics-gynecology-residency-program/how-to-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "9", "35", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/pathology-residency-program",
+          "title": "Pathology Residency Program",
+          "hierarchy": ["1", "4", "9", "36"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/pathology-residency-program/our-residents",
+          "title": "Our Residents",
+          "hierarchy": ["1", "4", "9", "36", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/pathology-residency-program/a-day-in-the-life",
+          "title": "A Day In The Life",
+          "hierarchy": ["1", "4", "9", "36", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/pathology-residency-program/our-alumni",
+          "title": "Our Alumni",
+          "hierarchy": ["1", "4", "9", "36", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/pathology-residency-program/why-tufts-mc",
+          "title": "Why Tufts MC?",
+          "hierarchy": ["1", "4", "9", "36", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/pathology-residency-program/training-program",
+          "title": "Training Program",
+          "hierarchy": ["1", "4", "9", "36", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/pathology-residency-program/how-to-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "9", "36", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/pathology-laboratory-medicine",
+          "title": "Pathology and Laboratory Medicine",
+          "hierarchy": ["1", "4", "9", "37"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/pediatric-adolescent-gynecology",
+          "title": "Pediatric + Adolescent Gynecology Fellowship Program",
+          "hierarchy": ["1", "4", "9", "38"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/pediatric-residency-program",
+          "title": "Pediatric Residency Program",
+          "hierarchy": ["1", "4", "9", "39"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/pediatric-rheumatology-fellowship",
+          "title": "Pediatric Rheumatology Fellowship Program",
+          "hierarchy": ["1", "4", "9", "40"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/pharmacy-residency-program-lowell",
+          "title": "Pharmacy Residency Program",
+          "hierarchy": ["1", "4", "9", "41"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/physical-medicine-rehabilitation",
+          "title": "Physical Medicine + Rehabilitation Residency Program",
+          "hierarchy": ["1", "4", "9", "42"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/physical-medicine-rehabilitation/faculty",
+          "title": "Faculty",
+          "hierarchy": ["1", "4", "9", "42", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/physical-medicine-rehabilitation/rotations",
+          "title": "Rotations",
+          "hierarchy": ["1", "4", "9", "42", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/physical-medicine-rehabilitation/life-as-a-resident",
+          "title": "Life as A Resident",
+          "hierarchy": ["1", "4", "9", "42", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/physical-medicine-rehabilitation/our-current-residents",
+          "title": "Our Current Residents",
+          "hierarchy": ["1", "4", "9", "42", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/physical-medicine-rehabilitation/our-alumni",
+          "title": "Our Alumni",
+          "hierarchy": ["1", "4", "9", "42", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/physical-medicine-rehabilitation/conferences-research",
+          "title": "Conferences + Research",
+          "hierarchy": ["1", "4", "9", "42", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/physical-medicine-rehabilitation/how-to-apply",
+          "title": "How To Apply",
+          "hierarchy": ["1", "4", "9", "42", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/psychiatry-residency-program",
+          "title": "Psychiatry Residency Program",
+          "hierarchy": ["1", "4", "9", "43"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/psychiatry-residency-program/about-us",
+          "title": "About Us",
+          "hierarchy": ["1", "4", "9", "43", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/psychiatry-residency-program/application-process",
+          "title": "Application Process",
+          "hierarchy": ["1", "4", "9", "43", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/psychiatry-residency-program/current-residents",
+          "title": "Current Residents",
+          "hierarchy": ["1", "4", "9", "43", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/psychiatry-residency-program/day-in-the-life",
+          "title": "Day in the Life",
+          "hierarchy": ["1", "4", "9", "43", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/psychiatry-residency-program/other-training-sites",
+          "title": "Other Training Sites",
+          "hierarchy": ["1", "4", "9", "43", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/psychiatry-residency-program/sample-schedule",
+          "title": "Sample schedule",
+          "hierarchy": ["1", "4", "9", "43", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/psychiatry-residency-program/benefits",
+          "title": "Benefits",
+          "hierarchy": ["1", "4", "9", "43", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/pulmonology-critical-care-medicine",
+          "title": "Pulmonology and Critical Care Medicine Fellowship",
+          "hierarchy": ["1", "4", "9", "44"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program",
+          "title": "Radiation Oncology Residency Program",
+          "hierarchy": ["1", "4", "9", "45"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/why-tufts-mc",
+          "title": "Why Tufts MC",
+          "hierarchy": ["1", "4", "9", "45", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/life-as-a-resident",
+          "title": "Life as a resident",
+          "hierarchy": ["1", "4", "9", "45", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/mission-goals",
+          "title": "Mission + Goals",
+          "hierarchy": ["1", "4", "9", "45", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/conference-and-tumor-boards",
+          "title": "Multidisciplinary Subspecialty Tumor Boards + Conferences",
+          "hierarchy": ["1", "4", "9", "45", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/curriculum",
+          "title": "Curriculum",
+          "hierarchy": ["1", "4", "9", "45", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/research-opportunities",
+          "title": "Research +Teaching Opportunities",
+          "hierarchy": ["1", "4", "9", "45", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/current-residents",
+          "title": "Current Residents",
+          "hierarchy": ["1", "4", "9", "45", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/faculty",
+          "title": "Faculty",
+          "hierarchy": ["1", "4", "9", "45", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/alumni",
+          "title": "Alumni",
+          "hierarchy": ["1", "4", "9", "45", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/amenities-benefits",
+          "title": "Amenities + Benefits",
+          "hierarchy": ["1", "4", "9", "45", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/how-to-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "9", "45", "10"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/scholarly-activity",
+          "title": "Scholarly Activity",
+          "hierarchy": ["1", "4", "9", "45", "11"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/technology",
+          "title": "Technology",
+          "hierarchy": ["1", "4", "9", "45", "12"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/radiation-oncology-residency-program/wellness",
+          "title": "Wellness",
+          "hierarchy": ["1", "4", "9", "45", "13"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/rheumatology-fellowship-program",
+          "title": "Rheumatology Fellowship Program",
+          "hierarchy": ["1", "4", "9", "46"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/rheumatology-fellowship-program/fellowship-goals",
+          "title": "Fellowship Goals",
+          "hierarchy": ["1", "4", "9", "46", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/rheumatology-fellowship-program/program-description",
+          "title": "Program Description",
+          "hierarchy": ["1", "4", "9", "46", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/rheumatology-fellowship-program/current-fellows",
+          "title": "Current Fellows",
+          "hierarchy": ["1", "4", "9", "46", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/rheumatology-fellowship-program/curriculum",
+          "title": "Curriculum",
+          "hierarchy": ["1", "4", "9", "46", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/rheumatology-fellowship-program/how-to-apply",
+          "title": "How to apply",
+          "hierarchy": ["1", "4", "9", "46", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/robert-kung-interventional-heart-failure",
+          "title": "Robert Kung Interventional Heart Failure Clinical and Research Fellowship Program",
+          "hierarchy": ["1", "4", "9", "47"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/sleep-medicine-fellowship",
+          "title": "Sleep Medicine Fellowship",
+          "hierarchy": ["1", "4", "9", "48"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/surgical-pathology-fellowship",
+          "title": "Surgical Pathology Fellowship",
+          "hierarchy": ["1", "4", "9", "49"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/triple-board-training",
+          "title": "Triple Board Training",
+          "hierarchy": ["1", "4", "9", "50"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/triple-board-training/curriculum",
+          "title": "Curriculum",
+          "hierarchy": ["1", "4", "9", "50", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/triple-board-training/current-residents",
+          "title": "Current Residents",
+          "hierarchy": ["1", "4", "9", "50", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/triple-board-training/program-leadership",
+          "title": "Program Leadership",
+          "hierarchy": ["1", "4", "9", "50", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/triple-board-training/alumni",
+          "title": "Alumni",
+          "hierarchy": ["1", "4", "9", "50", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/triple-board-training/our-history-neighborhood",
+          "title": "Our History + Neighborhood",
+          "hierarchy": ["1", "4", "9", "50", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/triple-board-training/resident-life",
+          "title": "Resident Life",
+          "hierarchy": ["1", "4", "9", "50", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/triple-board-training/how-to-apply",
+          "title": "How to apply",
+          "hierarchy": ["1", "4", "9", "50", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-affiliated-hospitals-orthopaedic",
+          "title": "Tufts-Affiliated Hospitals Orthopaedic Residency Program",
+          "hierarchy": ["1", "4", "9", "51"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-affiliated-hospitals-orthopaedic/faculty",
+          "title": "Faculty",
+          "hierarchy": ["1", "4", "9", "51", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-affiliated-hospitals-orthopaedic/rotations",
+          "title": "Rotations",
+          "hierarchy": ["1", "4", "9", "51", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-affiliated-hospitals-orthopaedic/life-as-a-resident",
+          "title": "Life as A Resident",
+          "hierarchy": ["1", "4", "9", "51", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-affiliated-hospitals-orthopaedic/our-current-residents",
+          "title": "Our Current Residents",
+          "hierarchy": ["1", "4", "9", "51", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-affiliated-hospitals-orthopaedic/our-alumni",
+          "title": "Our Alumni",
+          "hierarchy": ["1", "4", "9", "51", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-affiliated-hospitals-orthopaedic/conferences-research",
+          "title": "Conferences + Research",
+          "hierarchy": ["1", "4", "9", "51", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-affiliated-hospitals-orthopaedic/how-to-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "9", "51", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/vascular-neurology-fellowship",
+          "title": "Vascular Neurology Fellowship",
+          "hierarchy": ["1", "4", "9", "52"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/vascular-surgery-fellowship",
+          "title": "Vascular Surgery Fellowship",
+          "hierarchy": ["1", "4", "9", "53"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-combined-hand-surgery-fellowship",
+          "title": "Tufts Combined Hand Surgery Fellowship",
+          "hierarchy": ["1", "4", "10"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-combined-hand-surgery-fellowship/clinical-opportunities",
+          "title": "Clinical Opportunities",
+          "hierarchy": ["1", "4", "10", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-combined-hand-surgery-fellowship/current-fellows",
+          "title": "Current Fellows",
+          "hierarchy": ["1", "4", "10", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-combined-hand-surgery-fellowship/faculty",
+          "title": "Faculty",
+          "hierarchy": ["1", "4", "10", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-combined-hand-surgery-fellowship/our-alumni",
+          "title": "Our Alumni",
+          "hierarchy": ["1", "4", "10", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-combined-hand-surgery-fellowship/research-opportunities",
+          "title": "Research Opportunities",
+          "hierarchy": ["1", "4", "10", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/training-programs/tufts-combined-hand-surgery-fellowship/how-to-apply",
+          "title": "How to Apply",
+          "hierarchy": ["1", "4", "10", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medical-professionals/training-education/work-educational-life",
+          "title": "Work and Educational Life",
+          "hierarchy": ["1", "4", "11"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/cardiovascular",
+          "title": "Cardiovascular",
+          "hierarchy": ["1", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/cardiovascular/cardiac-rehabiliation",
+          "title": "Cardiac Rehabiliation",
+          "hierarchy": ["1", "5", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/cardiovascular/interventional-cardiology",
+          "title": "Interventional Cardiology",
+          "hierarchy": ["1", "5", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/cardiovascular/preventive-cardiology",
+          "title": "Preventive Cardiology",
+          "hierarchy": ["1", "5", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/cardiovascular/transcatheter-aortic-valve-replacement-tavr",
+          "title": "TAVR",
+          "hierarchy": ["1", "5", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/services-treatments/cardiovascular/vads-mechanical-circulatory-support",
+          "title": "VADs + Mechanical Circulatory Support",
+          "hierarchy": ["1", "5", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/cardiovascular/valvular-and-structural-heart-health",
+          "title": "Valvular and Structural Heart Health",
+          "hierarchy": ["1", "5", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/cardiovascular/vascular-disease",
+          "title": "Vascular Disease",
+          "hierarchy": ["1", "5", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/cardiovascular/womens-heart-care",
+          "title": "Women\u0027s Heart Center",
+          "hierarchy": ["1", "5", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials",
           "title": "Research + Clinical Trials",
           "hierarchy": ["2"],
           "machine-name": ["main"]
         },
         {
-          "href": "/meet-our-researchers",
-          "title": "Meet Our Researchers",
+          "href": "/research/clinical-trials",
+          "title": "Find a Clinical Trial",
           "hierarchy": ["2", "0"],
-          "machine-name": ["main"]
-        },
-        {
-          "href": "/partnerships-collaborations",
-          "title": "Partnerships + Collaborations",
-          "hierarchy": ["2", "1"],
-          "machine-name": ["main"]
-        },
-        {
-          "href": "/research-institutes-departmental-research",
-          "title": "Research Institutes + Departmental Research",
-          "hierarchy": ["2", "2"],
-          "machine-name": ["main"]
-        },
-        {
-          "href": "/research-institutes-departmental-research/cardiovascular-center-research-and-innovation-cvcri",
-          "title": "CardioVascular Center for Research and Innovation (CVCRI)",
-          "hierarchy": ["2", "2", "0"],
-          "machine-name": ["main"]
-        },
-        {
-          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr",
-          "title": "Center for Evaluation of Value and Risk in Health (CEVR)",
-          "hierarchy": ["2", "2", "1"],
-          "machine-name": ["main"]
-        },
-        {
-          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr/cevr-newsletter",
-          "title": "CEVR Newsletter",
-          "hierarchy": ["2", "2", "1", "0"],
-          "machine-name": ["main"]
-        },
-        {
-          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr/cevr-value-databases",
-          "title": "CEVR Value Databases",
-          "hierarchy": ["2", "2", "1", "1"],
-          "machine-name": ["main"]
-        },
-        {
-          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr/publications",
-          "title": "Publications",
-          "hierarchy": ["2", "2", "1", "2"],
-          "machine-name": ["main"]
-        },
-        {
-          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr/research-projects",
-          "title": "Research Projects",
-          "hierarchy": ["2", "2", "1", "3"],
-          "machine-name": ["main"]
-        },
-        {
-          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr/researchers-staff",
-          "title": "Researchers + Staff",
-          "hierarchy": ["2", "2", "1", "4"],
-          "machine-name": ["main"]
-        },
-        {
-          "href": "/research-institutes-departmental-research/center-evaluation-value-and-risk-health-cevr/sponsor-cevr",
-          "title": "Sponsor CEVR Research",
-          "hierarchy": ["2", "2", "1", "5"],
-          "machine-name": ["main"]
-        },
-        {
-          "href": "/research-offices-contacts",
-          "title": "Research Offices + Contacts",
-          "hierarchy": ["2", "3"],
           "machine-name": ["main"]
         },
         {
           "href": "/research-at-tufts-medicine",
           "title": "Research at Tufts Medicine",
+          "hierarchy": ["2", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/meet-our-researchers",
+          "title": "Meet Our Researchers",
+          "hierarchy": ["2", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/partnerships-collaborations",
+          "title": "Partnerships + Collaborations",
+          "hierarchy": ["2", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research",
+          "title": "Research Institutes + Departmental Research",
           "hierarchy": ["2", "4"],
           "machine-name": ["main"]
         },
         {
-          "href": "/clinical-trials-at-tufts-medicine",
-          "title": "Clinical Trials at Tufts Medicine",
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-health-equity-research",
+          "title": "Center for Health Equity Research (CHER)",
+          "hierarchy": ["2", "4", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-health-equity-research/research-staff",
+          "title": "Researchers + Staff",
+          "hierarchy": ["2", "4", "0", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-health-equity-research/research-studies",
+          "title": "Research Studies",
+          "hierarchy": ["2", "4", "0", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-health-equity-research/publications",
+          "title": "Publications",
+          "hierarchy": ["2", "4", "0", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-health-equity-research/accomplishments-during-covid19",
+          "title": "Accomplishments During COVID-19",
+          "hierarchy": ["2", "4", "0", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-health-equity-research/funding-support",
+          "title": "Funding Support",
+          "hierarchy": ["2", "4", "0", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/clinical-decision-making",
+          "title": "Clinical Decision Making Research",
+          "hierarchy": ["2", "4", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/clinical-decision-making-research/clinical-decision-analysis",
+          "title": "Clinical Decision Analysis",
+          "hierarchy": ["2", "4", "1", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/clinical-decision-making-research/health-policy-research",
+          "title": "Health Policy Research",
+          "hierarchy": ["2", "4", "1", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/clinical-decision-making-research/publications",
+          "title": "Publications",
+          "hierarchy": ["2", "4", "1", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/colon-and-rectal-surgery",
+          "title": "Colon and Rectal Surgery",
+          "hierarchy": ["2", "4", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/gastroenterology-research",
+          "title": "Gastroenterology Research",
+          "hierarchy": ["2", "4", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/hematologyoncology-research",
+          "title": "Hematology/Oncology Research",
+          "hierarchy": ["2", "4", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/hematologyoncology-research/laboratories-facilities",
+          "title": "Laboratories + Facilities",
+          "hierarchy": ["2", "4", "4", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/hematologyoncology-research/laboratories-facilities/buchsbaum-lab",
+          "title": "Buchsbaum Lab",
+          "hierarchy": ["2", "4", "4", "0", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/hematologyoncology-research/laboratories-facilities/covic",
+          "title": "Covic Lab",
+          "hierarchy": ["2", "4", "4", "0", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/hematologyoncology-research/laboratories-facilities/du",
+          "title": "Du Lab",
+          "hierarchy": ["2", "4", "4", "0", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/hematologyoncology-research/laboratories-facilities/guo-fu-hu-lab",
+          "title": "Guo fu Hu Lab",
+          "hierarchy": ["2", "4", "4", "0", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/hematologyoncology-research/laboratories-facilities/kuliopulos-lab",
+          "title": "Kuliopulos Lab",
+          "hierarchy": ["2", "4", "4", "0", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/hematologyoncology-research/laboratories-facilities/mathew-lab",
+          "title": "Mathew Lab",
+          "hierarchy": ["2", "4", "4", "0", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/hematologyoncology-research/laboratories-facilities/miaofen-hu",
+          "title": "Miaofen Hu Lab",
+          "hierarchy": ["2", "4", "4", "0", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/nephrology-research",
+          "title": "Nephrology Research",
+          "hierarchy": ["2", "4", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/nephrology-research/nephrology-division-publications",
+          "title": "Nephrology Division Publications",
+          "hierarchy": ["2", "4", "5", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/ophthalmology-research",
+          "title": "Ophthalmology research",
+          "hierarchy": ["2", "4", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/pulmonary-critical-care-and-sleep-medicine",
+          "title": "Pulmonary, Critical Care and Sleep Medicine",
+          "hierarchy": ["2", "4", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/radiology-research",
+          "title": "Radiology Research",
+          "hierarchy": ["2", "4", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/rheumatology-0",
+          "title": "Rheumatology",
+          "hierarchy": ["2", "4", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/rheumatology/center-complementary-and-integrative",
+          "title": "Center for Complementary and Integrative Medicine",
+          "hierarchy": ["2", "4", "9", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/rheumatology/center-osteoarthritis-research",
+          "title": "Center for Osteoarthritis Research",
+          "hierarchy": ["2", "4", "9", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/rheumatology/osteoarthritis-related-mr-image-biomarkers",
+          "title": "Osteoarthritis related MR image biomarkers",
+          "hierarchy": ["2", "4", "9", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/vascular-surgery-research",
+          "title": "Vascular Surgery Research",
+          "hierarchy": ["2", "4", "10"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/vascular-surgery-research/research-clinical-trials",
+          "title": "Research + Clinical Trials",
+          "hierarchy": ["2", "4", "10", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/vascular-surgery-research/advanced-wound-care-modalities",
+          "title": "Advanced Wound Care Modalities",
+          "hierarchy": ["2", "4", "10", "0", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/vascular-surgery-research/cellular-therapies-for-critical-limb-ischemia",
+          "title": "Cellular Therapies for Critical Limb Ischemia",
+          "hierarchy": ["2", "4", "10", "0", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/vascular-surgery-research/clinical-basic-science-aspects-of-venous-disease",
+          "title": "Clinical and Basic Science Aspects of Venous Disease",
+          "hierarchy": ["2", "4", "10", "0", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/vascular-surgery-research/hemodynamic-modeling-aaas",
+          "title": "Hemodynamic Modeling of AAAs",
+          "hierarchy": ["2", "4", "10", "0", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/vascular-surgery-research/radiation-safety-during-endovascular-procedures",
+          "title": "Radiation Safety During Endovascular Procedures",
+          "hierarchy": ["2", "4", "10", "0", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/boston-pancreas-group",
+          "title": "Boston Pancreas Group",
+          "hierarchy": ["2", "4", "11"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/boston-pancreas-group/projects",
+          "title": "Projects",
+          "hierarchy": ["2", "4", "11", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/boston-pancreas-group/murine-model-alcohol-dependent-chronic-pancreatitis",
+          "title": "Murine Model of Alcohol-Dependent Chronic Pancreatitis",
+          "hierarchy": ["2", "4", "11", "0", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/boston-pancreas-group/new-model-acute-pancreatitis",
+          "title": "New Model of Acute Pancreatitis",
+          "hierarchy": ["2", "4", "11", "0", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/boston-pancreas-group/role-par2-caerulein-induced-acute-pancreatitis",
+          "title": "Role of PAR2 in Caerulein-Induced Acute Pancreatitis",
+          "hierarchy": ["2", "4", "11", "0", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/boston-pancreas-group/role-tpi2-acute-pancreatitis",
+          "title": "Role of tpI2 on Acute Pancreatitis",
+          "hierarchy": ["2", "4", "11", "0", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/boston-pancreas-group/methods",
+          "title": "Methods",
+          "hierarchy": ["2", "4", "11", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/covid-19-biorepository-and-comprehensive-database",
+          "title": "COVID-19 Biorepository and Comprehensive Database",
+          "hierarchy": ["2", "4", "12"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cancer-center",
+          "title": "Cancer Center",
+          "hierarchy": ["2", "4", "13"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cancer-center/research-clinical",
+          "title": "Research + Clinical Trials",
+          "hierarchy": ["2", "4", "13", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cancer-center/research-clinical/biostatic-core",
+          "title": "Biostatistics Core",
+          "hierarchy": ["2", "4", "13", "0", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cancer-center/research-clinical/cancer-biology-program",
+          "title": "Cancer Biology Program",
+          "hierarchy": ["2", "4", "13", "0", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cancer-center/research-clinical/hematologic-malignancies-research-program",
+          "title": "Hematologic Malignancies Research Program",
+          "hierarchy": ["2", "4", "13", "0", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cancer-center/research-clinical/measurement-outcomes-population-science",
+          "title": "Measurement, Outcomes + Population Science Program",
+          "hierarchy": ["2", "4", "13", "0", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cancer-center/research-clinical/nutrition-and-cancer-program",
+          "title": "Nutrition and Cancer Program",
+          "hierarchy": ["2", "4", "13", "0", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cancer-center/research-clinical/prostate-cancer-research",
+          "title": "Prostate Cancer Research",
+          "hierarchy": ["2", "4", "13", "0", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cancer-center/research-clinical/small-animal-services",
+          "title": "Small Animal Services",
+          "hierarchy": ["2", "4", "13", "0", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cancer-center/research-clinical/structural-and-chemical-biology-program",
+          "title": "Structural and Chemical Biology Program",
+          "hierarchy": ["2", "4", "13", "0", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cancer-center/research-clinical/neely-center-clinical-cancer-research",
+          "title": "Neely Center for Clinical Cancer Research",
+          "hierarchy": ["2", "4", "13", "0", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cancer-center/research-clinical/tissue-engineering-program",
+          "title": "Tissue Engineering Program",
+          "hierarchy": ["2", "4", "13", "0", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cardiovascular-center-research-innovation-cvcri",
+          "title": "CardioVascular Center for Research and Innovation (CVCRI)",
+          "hierarchy": ["2", "4", "14"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cardiovascular-center-research-innovation-cvcri/researchers-staff",
+          "title": "Researchers + Staff",
+          "hierarchy": ["2", "4", "14", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cardiovascular-center-research-innovation-cvcri/clinical-trials",
+          "title": "Clinical Trials",
+          "hierarchy": ["2", "4", "14", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cardiovascular-center-research-innovation-cvcri/training-education",
+          "title": "Training + Education",
+          "hierarchy": ["2", "4", "14", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cardiovascular-center-research-innovation-cvcri/achievements-innovation",
+          "title": "Achievements + Innovation",
+          "hierarchy": ["2", "4", "14", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cardiovascular-center-research-innovation-cvcri/publications",
+          "title": "Publications",
+          "hierarchy": ["2", "4", "14", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cardiovascular-center-research-innovation-cvcri/philanthropy",
+          "title": "Philanthropy",
+          "hierarchy": ["2", "4", "14", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cardiovascular-center-research-innovation-cvcri/conferences",
+          "title": "ACC: 6th Annual Scientific Session \u0026 Expo",
+          "hierarchy": ["2", "4", "14", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/cardiology",
+          "title": "Cardiology",
+          "hierarchy": ["2", "4", "15"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/cardiology/cardiology-research-clinical-trials",
+          "title": "Research + Clinical Trials",
+          "hierarchy": ["2", "4", "15", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-evaluation-value-and-risk",
+          "title": "Center for Evaluation of Value and Risk in Health (CEVR)",
+          "hierarchy": ["2", "4", "16"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-evaluation-value-and-risk/research-projects",
+          "title": "Research Projects",
+          "hierarchy": ["2", "4", "16", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-evaluation-value-and-risk/researchers-staff",
+          "title": "Researchers + Staff",
+          "hierarchy": ["2", "4", "16", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-evaluation-value-and-risk/cevr-value-databases",
+          "title": "CEVR Value Databases",
+          "hierarchy": ["2", "4", "16", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-evaluation-value-and-risk/sponsor-cevr-research",
+          "title": "Sponsor CEVR Research",
+          "hierarchy": ["2", "4", "16", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-evaluation-value-and-risk/publications",
+          "title": "Publications",
+          "hierarchy": ["2", "4", "16", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-evaluation-value-and-risk/cevr-newsletter",
+          "title": "CEVR Newsletter",
+          "hierarchy": ["2", "4", "16", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-health-solutions",
+          "title": "Center for Health Solutions",
+          "hierarchy": ["2", "4", "17"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-health-solutions/areas-research",
+          "title": "Areas of Research",
+          "hierarchy": ["2", "4", "17", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/center-health-solutions/available-questionnaires",
+          "title": "Available Questionnaires",
+          "hierarchy": ["2", "4", "17", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/chronic-kidney-disease-epidemiology-collaboration-ckd-epi",
+          "title": "Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI)",
+          "hierarchy": ["2", "4", "18"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/chronic-kidney-disease-epidemiology-collaboration-ckd-epi/gfr-estimating-equations",
+          "title": "GFR Estimation",
+          "hierarchy": ["2", "4", "18", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/chronic-kidney-disease",
+          "title": "Estimating equations",
+          "hierarchy": ["2", "4", "18", "0", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/chronic-kidney-disease-epidemiology-collaboration-ckd-epi/surrogate-endpoints",
+          "title": "Surrogate Endpoints",
+          "hierarchy": ["2", "4", "18", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/chronic-kidney-disease-epidemiology-collaboration-ckd-epi/publications",
+          "title": "Publications",
+          "hierarchy": ["2", "4", "18", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/chronic-kidney-disease-epidemiology-collaboration-ckd-epi/studies",
+          "title": "Studies",
+          "hierarchy": ["2", "4", "18", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/chronic-kidney-disease-epidemiology-collaboration-ckd-epi/resources",
+          "title": "Resources",
+          "hierarchy": ["2", "4", "18", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/chronic-kidney-disease-calculators",
+          "title": "CKD-EPI Calculators",
+          "hierarchy": ["2", "4", "18", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/clinical-and-translational-research-center",
+          "title": "Clinical and Translational Research Center",
+          "hierarchy": ["2", "4", "19"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/clinical-and-translational-research-center/services-facilities",
+          "title": "Services + Facilities",
+          "hierarchy": ["2", "4", "19", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/clinical-and-translational-research-center/information-research-participants",
+          "title": "Information for Research Participants",
+          "hierarchy": ["2", "4", "19", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/clinical-and-translational-science-institute",
+          "title": "Clinical and Translational Science Institute",
+          "hierarchy": ["2", "4", "20"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/ear-nose-and-throat-ent-otolaryngology",
+          "title": "Ear Nose And Throat Ent Otolaryngology",
+          "hierarchy": ["2", "4", "21"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/ear-nose-and-throat-ent-otolaryngology/ent-research",
+          "title": "Research + Clinical Trials",
+          "hierarchy": ["2", "4", "21", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/endocrinology",
+          "title": "Endocrinology",
+          "hierarchy": ["2", "4", "22"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/endocrinology/endocrinology-diabetes-and-metabolism",
+          "title": "Research + Clinical Trials",
+          "hierarchy": ["2", "4", "22", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/infectious-disease",
+          "title": "Infectious Disease",
+          "hierarchy": ["2", "4", "23"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/babesiosis-research-program",
+          "title": "Babesiosis Research Program",
+          "hierarchy": ["2", "4", "23", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/basic-science-research",
+          "title": "Basic Science Research",
+          "hierarchy": ["2", "4", "23", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/diarrheal-diseases-immunocompromised",
+          "title": "Diarrheal Diseases in the Immunocompromised",
+          "hierarchy": ["2", "4", "23", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/ecuador-research",
+          "title": "Ecuador Research",
+          "hierarchy": ["2", "4", "23", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/faculty-investigators",
+          "title": "Faculty Investigators",
+          "hierarchy": ["2", "4", "23", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/infectious-disease/geographic-medicine-and-infectious-diseases",
+          "title": "Geographic Medicine and Infectious Diseases",
+          "hierarchy": ["2", "4", "23", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/global-health-research",
+          "title": "Global Health Research",
+          "hierarchy": ["2", "4", "23", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/intestinal-microbiome",
+          "title": "Intestinal Microbiome in the Immunocompromised",
+          "hierarchy": ["2", "4", "23", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/geographic-medicine-and-infectious-0",
+          "title": "Research + Clinical Trials",
+          "hierarchy": ["2", "4", "23", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/research-bangladesh",
+          "title": "Research in Bangladesh",
+          "hierarchy": ["2", "4", "23", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/research-india",
+          "title": "Research in India",
+          "hierarchy": ["2", "4", "23", "10"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/research-pakistan",
+          "title": "Research in Pakistan",
+          "hierarchy": ["2", "4", "23", "11"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/research-vietnam",
+          "title": "Research in Vietnam",
+          "hierarchy": ["2", "4", "23", "12"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/toxin-mediated-inflammation-research",
+          "title": "Toxin-Mediated Inflammation Research Program",
+          "hierarchy": ["2", "4", "23", "13"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/infectious-disease/uganda-research",
+          "title": "Uganda Research",
+          "hierarchy": ["2", "4", "23", "14"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-health-policy-studies",
+          "title": "Institute For Clinical Research And Health Policy Studies",
+          "hierarchy": ["2", "4", "24"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-health-policy-studies/researchers-staff",
+          "title": "Researchers + Staff",
+          "hierarchy": ["2", "4", "24", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-health-policy-studies/research-centers",
+          "title": "Research Centers",
+          "hierarchy": ["2", "4", "24", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-healthcare-research-informatics",
+          "title": "Center for Advanced Healthcare Research Informatics",
+          "hierarchy": ["2", "4", "24", "1", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-biomedical-system",
+          "title": "Center for Biomedical System Design",
+          "hierarchy": ["2", "4", "24", "1", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-health-policy-studies/research-centers/center-cardiovascular-health-services-research",
+          "title": "Center for Cardiovascular Health Services Research",
+          "hierarchy": ["2", "4", "24", "1", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-evidence-sythesis",
+          "title": "Center for Clinical Evidence Synthesis",
+          "hierarchy": ["2", "4", "24", "1", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research",
+          "title": "Center for Clinical Trials",
+          "hierarchy": ["2", "4", "24", "1", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-health-policy-studies/research-centers/center-community-engaged-medicine",
+          "title": "Center for Community-Engaged Medicine",
+          "hierarchy": ["2", "4", "24", "1", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-health-policy-studies/research-centers/center-quantitative-methods-and-data-science",
+          "title": "Center for Quantitative Methods and Data Science",
+          "hierarchy": ["2", "4", "24", "1", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-health-policy-studies/research-centers/predictive-analytics-and-comparative-effectiveness-pace-center",
+          "title": "Predictive Analytics and Comparative Effectiveness (PACE) Center",
+          "hierarchy": ["2", "4", "24", "1", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-health-policy-studies/products-services",
+          "title": "Products + Services",
+          "hierarchy": ["2", "4", "24", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-health-policy-studies/our-mission",
+          "title": "Our Mission",
+          "hierarchy": ["2", "4", "24", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-health-policy-studies/publications",
+          "title": "Publications",
+          "hierarchy": ["2", "4", "24", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-health-policy-studies/training-education",
+          "title": "Training + Education",
+          "hierarchy": ["2", "4", "24", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/institute-clinical-research-health-policy-studies/careers-opportunities",
+          "title": "Careers + opportunities",
+          "hierarchy": ["2", "4", "24", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medicine",
+          "title": "Medicine",
+          "hierarchy": ["2", "4", "25"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/medicine/research-clinical-trials",
+          "title": "Research + Clinical Trials",
+          "hierarchy": ["2", "4", "25", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/medicine/tupper-research-fund",
+          "title": "The Tupper Research Fund",
+          "hierarchy": ["2", "4", "25", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri",
+          "title": "Molecular Cardiology Research Institute (MCRI)",
+          "hierarchy": ["2", "4", "26"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/researchers-staff",
+          "title": "Researchers + Staff",
+          "hierarchy": ["2", "4", "26", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/research-centers",
+          "title": "Research Centers + Labs",
+          "hierarchy": ["2", "4", "26", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/research-centers/cardiac-biology-research-center",
+          "title": "Cardiac Biology Research Center",
+          "hierarchy": ["2", "4", "26", "1", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/research-centers/center-translational-pharmacology-and-genomics",
+          "title": "Center for Translational Pharmacology and Genomics",
+          "hierarchy": ["2", "4", "26", "1", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/research-centers/vascular-biology-research-center",
+          "title": "Vascular Biology Research Center",
+          "hierarchy": ["2", "4", "26", "1", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/research-centers/vascular-biology-research-center/blanton-lab",
+          "title": "Blanton Lab",
+          "hierarchy": ["2", "4", "26", "1", "2", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/research-centers/vascular-biology-research-center/chen-lab",
+          "title": "Chen Lab",
+          "hierarchy": ["2", "4", "26", "1", "2", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/research-centers/vascular-biology-research-center/chin-lab",
+          "title": "Chin Lab",
+          "hierarchy": ["2", "4", "26", "1", "2", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/research-centers/vascular-biology-research-center/galper-lab",
+          "title": "Galper Lab",
+          "hierarchy": ["2", "4", "26", "1", "2", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/research-centers/vascular-biology-research-center/huggins-lab",
+          "title": "Huggins Lab",
+          "hierarchy": ["2", "4", "26", "1", "2", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/research-centers/vascular-biology-research-center/jaffe-lab",
+          "title": "Jaffe Lab",
+          "hierarchy": ["2", "4", "26", "1", "2", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/research-centers/vascular-biology-research-center/kopin-lab",
+          "title": "Kopin Lab",
+          "hierarchy": ["2", "4", "26", "1", "2", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/core-facilities",
+          "title": "Core Facilities",
+          "hierarchy": ["2", "4", "26", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/core-facilities/bio-bank",
+          "title": "Bio Bank",
+          "hierarchy": ["2", "4", "26", "2", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/core-facilities/cell-culture-core-facility",
+          "title": "Cell Culture Core Facility",
+          "hierarchy": ["2", "4", "26", "2", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/core-facilities/drug-screening",
+          "title": "Drug Screening + Fly Lab",
+          "hierarchy": ["2", "4", "26", "2", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/core-facilities/mcri-mouse-physiology-core-facility",
+          "title": "MCRI Mouse Physiology Core Facility",
+          "hierarchy": ["2", "4", "26", "2", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/core-facilities/vascular-function-core",
+          "title": "Vascular Function Core",
+          "hierarchy": ["2", "4", "26", "2", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/multidisciplinary-research-groups",
+          "title": "Multidisciplinary Research Groups",
+          "hierarchy": ["2", "4", "26", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/multidisciplinary-research-groups/cardio-oncology-research-group",
+          "title": "Cardio-Oncology Research Group",
+          "hierarchy": ["2", "4", "26", "3", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/multidisciplinary-research-groups/womens-cardiovascular-health-research-group",
+          "title": "Womens Cardiovascular Health Research Group",
+          "hierarchy": ["2", "4", "26", "3", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/training-education",
+          "title": "Training + Education",
+          "hierarchy": ["2", "4", "26", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/leadership",
+          "title": "Leadership",
+          "hierarchy": ["2", "4", "26", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/publications",
+          "title": "Publications",
+          "hierarchy": ["2", "4", "26", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/20-years-scientific-discovery",
+          "title": "20 Years of Scientific Discovery",
+          "hierarchy": ["2", "4", "26", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/molecular-cardiology-research-institute-mcri/faculty-openings",
+          "title": "Faculty Openings",
+          "hierarchy": ["2", "4", "26", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/mother-infant-research-institute-miri",
+          "title": "Mother Infant Research Institute (MIRI)",
+          "hierarchy": ["2", "4", "27"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/mother-infant-research-institute-miri/researchers-staff",
+          "title": "Researchers + Staff",
+          "hierarchy": ["2", "4", "27", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/mother-infant-research-institute-miri/laboratories",
+          "title": "Laboratories",
+          "hierarchy": ["2", "4", "27", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/mother-infant-research-institute-miri/laboratories/catalano-laboratory",
+          "title": "Catalano Laboratory",
+          "hierarchy": ["2", "4", "27", "1", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/mother-infant-research-institute-miri/laboratories/catalano-laboratory/lifestyle-lipp",
+          "title": "Lifestyle intervention in preparing for pregnancy (LIPP)",
+          "hierarchy": ["2", "4", "27", "1", "0", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/mother-infant-research-institute-miri/laboratories/house-laboratory",
+          "title": "House Laboratory",
+          "hierarchy": ["2", "4", "27", "1", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/mother-infant-research-institute-miri/laboratories/otierney-ginn-lab",
+          "title": "O\u0027Tierney-Ginn Laboratory",
+          "hierarchy": ["2", "4", "27", "1", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/mother-infant-research-institute-miri/laboratories/wallingford-laboratory",
+          "title": "Wallingford Laboratory",
+          "hierarchy": ["2", "4", "27", "1", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/mother-infant-research-institute-miri/laboratories/yen-laboratory",
+          "title": "Yen Laboratory",
+          "hierarchy": ["2", "4", "27", "1", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/mother-infant-research-institute-miri/publications-awards",
+          "title": "Publications + Awards",
+          "hierarchy": ["2", "4", "27", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/mother-infant-research-institute-miri/collaborations-resources",
+          "title": "Collaborations + Resources",
+          "hierarchy": ["2", "4", "27", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/mother-infant-research-institute-miri/miri-seminar-series",
+          "title": "MIRI Seminar Series",
+          "hierarchy": ["2", "4", "27", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/mother-infant-research-institute-miri/research-focus-areas",
+          "title": "Research Focus Areas",
+          "hierarchy": ["2", "4", "27", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/obstetrics-and-gynecology-0",
+          "title": "Obstetrics and Gynecology",
+          "hierarchy": ["2", "4", "28"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/obstetrics-and-gynecology/danielle-roncari-md-research",
+          "title": "Danielle Roncari, MD Research Laboratory",
+          "hierarchy": ["2", "4", "28", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/obstetrics-and-gynecology-0/erika-f-werner-md-ms",
+          "title": "Erika F Werner, MD, MS",
+          "hierarchy": ["2", "4", "28", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/obstetrics-and-gynecology-0/laura-baecher-lind-md-research-laboratory",
+          "title": "Laura Baecher-Lind, MD Research Laboratory",
+          "hierarchy": ["2", "4", "28", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/obstetrics-and-gynecology/obstetrics-and-gynecology",
+          "title": "Research + Clinical Trials",
+          "hierarchy": ["2", "4", "28", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/obstetrics-and-gynecology-0/young-bae-kim-md-research-laboratory",
+          "title": "Young Bae Kim, MD Research Laboratory",
+          "hierarchy": ["2", "4", "28", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/pathology-and-lab-medicine",
+          "title": "Pathology and Lab Medicine",
+          "hierarchy": ["2", "4", "29"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/pathology-and-lab-medicine/research-clinical-trials",
+          "title": "Research + Clinical Trials",
+          "hierarchy": ["2", "4", "29", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/phoenix-laboratory",
+          "title": "Phoenix Laboratory",
+          "hierarchy": ["2", "4", "30"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/psychiatry",
+          "title": "Psychiatry",
+          "hierarchy": ["2", "4", "31"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/psychiatry/psychiatry-research-clinical-trials",
+          "title": "Research + Clinical Trials",
+          "hierarchy": ["2", "4", "31", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/dermatology-research-clinical-trials",
+          "title": "Research + Clinical Trials",
+          "hierarchy": ["2", "4", "32"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/rheumatology-research-clinical-trials",
+          "title": "Research + Clinical Trials",
+          "hierarchy": ["2", "4", "33"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/weight-wellness-research",
+          "title": "Weight + Wellness Research",
+          "hierarchy": ["2", "4", "34"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/surgery",
+          "title": "Surgery",
+          "hierarchy": ["2", "4", "35"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/acute-care-surgery-research",
+          "title": "Acute Care Surgery Research",
+          "hierarchy": ["2", "4", "35", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/annual-resident-research-day",
+          "title": "Annual Resident Research Day",
+          "hierarchy": ["2", "4", "35", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/bariatric-surgery-research",
+          "title": "Bariatric Surgery Research",
+          "hierarchy": ["2", "4", "35", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/cardiac-surgery-research",
+          "title": "Cardiac Surgery Research",
+          "hierarchy": ["2", "4", "35", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/colon-and-rectal-surgery-research",
+          "title": "Colon and Rectal Surgery Research",
+          "hierarchy": ["2", "4", "35", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/general-surgery-and-surgical-oncology-research",
+          "title": "General Surgery and Surgical Oncology Research",
+          "hierarchy": ["2", "4", "35", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/pediatric-surgery-research",
+          "title": "Pediatric Surgery Research",
+          "hierarchy": ["2", "4", "35", "6"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/plastic-surgery-research",
+          "title": "Plastic Surgery Research",
+          "hierarchy": ["2", "4", "35", "7"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/research-division",
+          "title": "Research by Division",
+          "hierarchy": ["2", "4", "35", "8"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/surgery-research",
+          "title": "Surgery Research",
+          "hierarchy": ["2", "4", "35", "9"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/thoracic-surgery-research",
+          "title": "Thoracic Surgery Research",
+          "hierarchy": ["2", "4", "35", "10"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-institutes-departmental-research/surgery/transplant-surgery-research",
+          "title": "Transplant Surgery Research",
+          "hierarchy": ["2", "4", "35", "11"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/surgical-and-interventional-research-laboratories",
+          "title": "Surgical and Interventional Research Laboratories",
+          "hierarchy": ["2", "4", "36"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/surgical-and-interventional-research-laboratories/services-facilities",
+          "title": "Services + Facilities",
+          "hierarchy": ["2", "4", "36", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/surgical-and-interventional-research-laboratories/services-facilities/expert-consulting",
+          "title": "Expert Consulting",
+          "hierarchy": ["2", "4", "36", "0", "0"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/surgical-and-interventional-research-laboratories/services-facilities/histology-pathology",
+          "title": "Histology/Pathology",
+          "hierarchy": ["2", "4", "36", "0", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/surgical-and-interventional-research-laboratories/services-facilities/interventional-surgical-procedures",
+          "title": "Interventional and Surgical Procedures",
+          "hierarchy": ["2", "4", "36", "0", "2"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/surgical-and-interventional-research-laboratories/services-facilities/surgical-and-interventional-research-laboratories/mri3d-ste",
+          "title": "MRI/3D-STE",
+          "hierarchy": ["2", "4", "36", "0", "3"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/surgical-and-interventional-research-laboratories/services-facilities/proof-concept",
+          "title": "Proof of Concept",
+          "hierarchy": ["2", "4", "36", "0", "4"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/surgical-and-interventional-research-laboratories/services-facilities/training",
+          "title": "Training",
+          "hierarchy": ["2", "4", "36", "0", "5"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-clinical-trials/research-institutes-departmental-research/surgical-and-interventional-research-laboratories/applied-research",
+          "title": "Applied Research",
+          "hierarchy": ["2", "4", "36", "1"],
+          "machine-name": ["main"]
+        },
+        {
+          "href": "/research-offices-contacts",
+          "title": "Research Offices + Contacts",
           "hierarchy": ["2", "5"],
           "machine-name": ["main"]
         },
@@ -532,33 +4012,39 @@
           "machine-name": ["main"]
         },
         {
+          "href": "",
+          "title": "Pay a Bill",
+          "hierarchy": ["3", "0"],
+          "machine-name": ["main"]
+        },
+        {
           "href": "/plan-your-visit",
           "title": "Plan Your Visit",
-          "hierarchy": ["3", "0"],
+          "hierarchy": ["3", "1"],
           "machine-name": ["main"]
         },
         {
           "href": "/request-medical-records",
           "title": "Request Medical Records",
-          "hierarchy": ["3", "1"],
+          "hierarchy": ["3", "2"],
           "machine-name": ["main"]
         },
         {
           "href": "/my-tufts-med",
           "title": "myTuftsMed (patient portal)",
-          "hierarchy": ["3", "2"],
+          "hierarchy": ["3", "3"],
           "machine-name": ["main"]
         },
         {
           "href": "/classes-events",
           "title": "Classes + Events",
-          "hierarchy": ["3", "3"],
+          "hierarchy": ["3", "4"],
           "machine-name": ["main"]
         },
         {
           "href": "",
           "title": "All Patient Resources",
-          "hierarchy": ["3", "4"],
+          "hierarchy": ["3", "5"],
           "machine-name": ["main"]
         }
       ]

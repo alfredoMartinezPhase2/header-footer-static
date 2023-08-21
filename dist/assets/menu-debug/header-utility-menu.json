@@ -4,32 +4,32 @@
       "anchor": "/system/menu/header-utility/linkset",
       "item": [
         {
-          "href": "/pay-a-bill",
-          "title": "Pay a bill",
+          "href": "/medical-professionals",
+          "title": "For Medical Professionals",
           "hierarchy": ["0"],
           "machine-name": ["header-utility"]
         },
         {
-          "href": "/careers",
-          "title": "Careers",
+          "href": "/pay-bill",
+          "title": "Pay a Bill",
           "hierarchy": ["1"],
+          "machine-name": ["header-utility"]
+        },
+        {
+          "href": "http://careers.tuftsmedicine.org/",
+          "title": "Careers",
+          "hierarchy": ["2"],
           "machine-name": ["header-utility"]
         },
         {
           "href": "/giving",
           "title": "Giving",
-          "hierarchy": ["2"],
-          "machine-name": ["header-utility"]
-        },
-        {
-          "href": "/covid-19",
-          "title": "COVID-19",
           "hierarchy": ["3"],
           "machine-name": ["header-utility"]
         },
         {
-          "href": "/my-tufts-med",
-          "title": "myTuftsMed",
+          "href": "https://www.mytuftsmed.org/",
+          "title": "myTuftsMed Login",
           "hierarchy": ["4"],
           "machine-name": ["header-utility"]
         }

@@ -5,13 +5,13 @@
       "item": [
         {
           "href": "",
-          "title": "For Professionals",
+          "title": "For Medical Professionals",
           "hierarchy": ["0"],
           "machine-name": ["header-menu"]
         },
         {
-          "href": "/training-education",
-          "title": "Training + education",
+          "href": "/medical-professionals/training-education",
+          "title": "Training + Education",
           "hierarchy": ["0", "0"],
           "machine-name": ["header-menu"]
         },
@@ -22,7 +22,7 @@
           "machine-name": ["header-menu"]
         },
         {
-          "href": "/referring-mds",
+          "href": "/physicians/physician-recruitment-referral-bonus-program",
           "title": "Referring MDs",
           "hierarchy": ["0", "2"],
           "machine-name": ["header-menu"]
@@ -46,13 +46,13 @@
           "machine-name": ["header-menu"]
         },
         {
-          "href": "/news-media",
+          "href": "/about-us/news/search",
           "title": "News + Media",
           "hierarchy": ["1", "2"],
           "machine-name": ["header-menu"]
         },
         {
-          "href": "/classes-events",
+          "href": "/about/events/find-event",
           "title": "Classes + Events",
           "hierarchy": ["1", "3"],
           "machine-name": ["header-menu"]

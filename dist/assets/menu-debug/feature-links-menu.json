@@ -11,7 +11,7 @@
         },
         {
           "href": "/covid-19",
-          "title": "COVID-19 Info",
+          "title": "COVID-19 ",
           "hierarchy": ["1"],
           "machine-name": ["feature-links"]
         },
@@ -22,14 +22,14 @@
           "machine-name": ["feature-links"]
         },
         {
-          "href": "/refer-a-patient",
-          "title": "Refer a Patient",
+          "href": "/find-a-location",
+          "title": "Find a Location",
           "hierarchy": ["3"],
           "machine-name": ["feature-links"]
         },
         {
-          "href": "/find-a-location",
-          "title": "Find a Location",
+          "href": "/refer-a-patient",
+          "title": "Refer a Patient",
           "hierarchy": ["4"],
           "machine-name": ["feature-links"]
         }
